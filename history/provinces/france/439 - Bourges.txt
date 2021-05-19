@@ -1,0 +1,6 @@
+owner = LOR
+controller = LOR
+add_core = LOR
+add_core = FRA
+trade_goods = timber
+life_rating = 33

@@ -1,0 +1,317 @@
+#========================= L A N D =========================
+
+army = {
+name = "First Army"
+location = 749
+regiment = {
+name = "1st Hussar"
+type = hussar
+home = 749
+}
+regiment = {
+name = "1st Infantry"
+type = infantry
+home = 766
+}
+regiment = {
+name = "2nd Infantry"
+type = infantry
+home = 473
+}
+regiment = {
+name = "3rd Infantry"
+type = infantry
+home = 751
+}
+regiment = {
+name = "4th Infantry"
+type = infantry
+home = 750
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 748
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 747
+}
+regiment = {
+name = "3rd Artillery"
+type = artillery
+home = 745
+}
+regiment = {
+name = "4th Artillery"
+type = artillery
+home = 744
+}
+regiment = {
+name = "5th Artillery"
+type = artillery
+home = 741
+}
+}
+
+army = {
+name = "Second Army"
+location = 738
+regiment = {
+name = "1st Hussar"
+type = hussar
+home = 765
+}
+regiment = {
+name = "1st Infantry"
+type = infantry
+home = 749
+}
+regiment = {
+name = "2nd Infantry"
+type = infantry
+home = 739
+}
+regiment = {
+name = "3rd Infantry"
+type = infantry
+home = 746
+}
+regiment = {
+name = "4th Infantry"
+type = infantry
+home = 740
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 738
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 724
+}
+regiment = {
+name = "3rd Artillery"
+type = artillery
+home = 724
+}
+regiment = {
+name = "4th Artillery"
+type = artillery
+home = 725
+}
+regiment = {
+name = "5th Artillery"
+type = artillery
+home = 720
+}
+}
+
+army = {
+name = "Third Army"
+location = 755
+regiment = {
+name = "1st Hussar"
+type = hussar
+home = 2567
+}
+regiment = {
+name = "1st Infantry"
+type = infantry
+home = 753
+}
+regiment = {
+name = "2nd Infantry"
+type = infantry
+home = 754
+}
+regiment = {
+name = "3rd Infantry"
+type = infantry
+home = 754
+}
+regiment = {
+name = "4th Infantry"
+type = infantry
+home = 757
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 755
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 761
+}
+regiment = {
+name = "3rd Artillery"
+type = artillery
+home = 756
+}
+regiment = {
+name = "4th Artillery"
+type = artillery
+home = 759
+}
+regiment = {
+name = "5th Artillery"
+type = artillery
+home = 763
+}
+}
+
+army = {
+name = "Fourth Army"
+location = 453
+regiment = {
+name = "1st Hussar"
+type = hussar
+home = 466
+}
+regiment = {
+name = "1st Infantry"
+type = infantry
+home = 465
+}
+regiment = {
+name = "2nd Infantry"
+type = infantry
+home = 472
+}
+regiment = {
+name = "3rd Infantry"
+type = infantry
+home = 754
+}
+regiment = {
+name = "4th Infantry"
+type = infantry
+home = 720
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 722
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 723
+}
+regiment = {
+name = "3rd Artillery"
+type = artillery
+home = 758
+}
+regiment = {
+name = "4th Artillery"
+type = artillery
+home = 760
+}
+regiment = {
+name = "5th Artillery"
+type = artillery
+home = 762
+}
+}
+
+
+#========================= S E A =========================
+
+navy = {
+name = "Italian Navy"
+location = 724
+ship = {
+name = "5th Transport"
+type = clipper_transport
+}
+ship = {
+name = "6th Transport"
+type = clipper_transport
+}
+ship = {
+name = "7th Transport"
+type = clipper_transport
+}
+ship = {
+name = "8th Transport"
+type = clipper_transport
+}
+ship = {
+name = "9th Transport"
+type = clipper_transport
+}
+ship = {
+name = "10th Transport"
+type = clipper_transport
+}
+ship = {
+name = "4th Transport"
+type = clipper_transport
+}
+ship = {
+name = "3rd Transport"
+type = clipper_transport
+}
+ship = {
+name = "2nd Transport"
+type = clipper_transport
+}
+ship = {
+name = "1st Transport"
+type = clipper_transport
+}
+ship = {
+name = "Victory"
+type = frigate
+}
+ship = {
+name = "Corsica"
+type = frigate
+}
+ship = {
+name = "Roma"
+type = manowar
+}
+ship = {
+name = "Napoleon"
+type = manowar
+}
+ship = {
+name = "Italia"
+type = frigate
+}
+ship = {
+name = "Sardinia"
+type = frigate
+}
+ship = {
+name = "Glory"
+type = manowar
+}
+ship = {
+name = "Napoleon"
+type = manowar
+}
+ship = {
+name = "Empire"
+type = frigate
+}
+ship = {
+name = "Unsinkable"
+type = frigate
+}
+ship = {
+name = "Hero"
+type = frigate
+}
+ship = {
+name = "Adriatic"
+type = frigate
+}
+}

@@ -1,0 +1,41 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Burgundian Guards"
+location = 428
+regiment = {
+name = "Burgundian Hussars"
+type = hussar
+home = 428
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 429
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 430
+}
+regiment = {
+name = "1nd Burgundian Infantry"
+type = infantry
+home = 431
+}
+regiment = {
+name = "2nd Burgundian Infantry"
+type = infantry
+home = 433
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+

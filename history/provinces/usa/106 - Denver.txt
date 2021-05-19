@@ -1,0 +1,10 @@
+trade_goods = cattle
+life_rating = 35
+owner = LOU
+controller = LOU
+add_core = LOU
+1861.1.1 = {
+owner = LOU
+controller = LOU
+add_core = LOU
+}

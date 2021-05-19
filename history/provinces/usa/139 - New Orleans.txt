@@ -1,0 +1,6 @@
+owner = LOU
+controller = LOU
+add_core = LOU
+trade_goods = grain
+life_rating = 35
+naval_base = 1

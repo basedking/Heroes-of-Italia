@@ -1,0 +1,4 @@
+owner = HIScontroller = HISadd_core = HIS
+trade_goods = grain
+life_rating = 35
+fort = 1

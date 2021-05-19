@@ -1,0 +1,77 @@
+color = { 137 67 138 }
+graphical_culture = Generic
+
+party = {
+	name = "SHO_liberal"
+	start_date = 1836.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SHO_conservative"
+	start_date = 1836.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+
+
+unit_names = {
+	dreadnought = {
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+		
+	}
+	ironclad = {
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+		
+	}
+	manowar = {
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
+	cruiser = {
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
+	frigate = {
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
+	monitor = {
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
+}

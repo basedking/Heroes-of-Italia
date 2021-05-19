@@ -1,0 +1,8 @@
+owner = YUG
+controller = YUG
+add_core = YUG
+add_core = WAL
+add_core = ROM
+add_core = BUL 
+trade_goods = grain
+life_rating = 35

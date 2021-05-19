@@ -1,0 +1,106 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "First Army"
+location = 425
+regiment = {
+name = "1st Hussar"
+type = hussar
+home = 425
+}
+regiment = {
+name = "1st Infantry"
+type = infantry
+home = 2570
+}
+regiment = {
+name = "2nd Infantry"
+type = infantry
+home = 402
+}
+regiment = {
+name = "3rd Infantry"
+type = infantry
+home = 425
+}
+regiment = {
+name = "4th Infantry"
+type = infantry
+home = 403
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 401
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 400
+}
+regiment = {
+name = "3rd Artillery"
+type = artillery
+home = 399
+}
+regiment = {
+name = "4th Artillery"
+type = artillery
+home = 404
+}
+regiment = {
+name = "5th Artillery"
+type = artillery
+home = 408
+}
+}
+
+
+#========================= S E A =========================
+
+navy = {
+name = "Escadre du Nord"
+location = 402
+ship = {
+name = "5ème Flotille de Transport"
+type = clipper_transport
+}
+ship = {
+name = "4ème Flotille de Transport"
+type = clipper_transport
+}
+ship = {
+name = "3ème Flotille de Transport"
+type = clipper_transport
+}
+ship = {
+name = "2ème Flotille de Transport"
+type = clipper_transport
+}
+ship = {
+name = "1ème Flotille de Transport"
+type = clipper_transport
+}
+ship = {
+name = "Jupiter"
+type = frigate
+}
+ship = {
+name = "Hercule"
+type = frigate
+}
+ship = {
+name = "Liberty"
+type = manowar
+}
+ship = {
+name = "France"
+type = manowar
+}
+}
+
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+

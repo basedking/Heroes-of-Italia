@@ -1,0 +1,71 @@
+#Comoro Islands Region (64000)  
+#owned by New Ireland in 1836/dominated by sultan of Anjouan
+#Mayotte (8000/2000 POPS) 
+2124 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 400
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 900
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 500
+	}
+
+}

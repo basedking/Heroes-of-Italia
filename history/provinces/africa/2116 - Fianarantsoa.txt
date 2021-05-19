@@ -1,0 +1,6 @@
+owner = NUE
+controller = NUE
+add_core = MAD
+add_core = NUE
+trade_goods = coal
+life_rating = 35

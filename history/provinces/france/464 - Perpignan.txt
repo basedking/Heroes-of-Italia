@@ -1,0 +1,6 @@
+owner = OCC
+controller = OCC
+add_core = OCC
+add_core = CAT
+trade_goods = grain
+life_rating = 31

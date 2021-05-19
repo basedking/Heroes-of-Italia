@@ -1,0 +1,47 @@
+army = {
+	name = "New Irish Army"
+	location = 2117
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 2115
+	}
+
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 2115
+	}
+
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 2115
+	}
+
+	regiment = {
+		name= "4. Infantry"
+		type = infantry
+		home = 2116
+	}
+
+	regiment = {
+		name= "1. Battery"
+		type = artillery
+		home = 2116
+	}
+
+	regiment = {
+		name= "2. Battery"
+		type = artillery
+		home = 2117
+	}
+
+	regiment = {
+		name= "King's Light Horse"
+		type = hussar
+		home = 2122
+	}
+}
+
+

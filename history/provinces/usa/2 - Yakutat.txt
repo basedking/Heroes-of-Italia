@@ -1,0 +1,6 @@
+owner = RKL
+controller = RKL
+add_core = RKL
+trade_goods = fish
+life_rating = 20
+colonial = 2

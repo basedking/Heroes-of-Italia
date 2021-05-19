@@ -1,0 +1,41 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Aquitanian Defence Army"
+location = 458
+regiment = {
+name = "First Hussar Regiment"
+type = hussar
+home = 458
+}
+regiment = {
+name = "First Artillery Regiment"
+type = artillery
+home = 444
+}
+regiment = {
+name = "Second Artillery Regiment"
+type = artillery
+home = 442
+}
+regiment = {
+name = "Second Infantry Regiment"
+type = infantry
+home = 459
+}
+regiment = {
+name = "First Infantry Regiment"
+type = infantry
+home = 460
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+

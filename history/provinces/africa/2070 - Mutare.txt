@@ -1,0 +1,5 @@
+owner = RED
+controller = RED
+add_core = RED
+trade_goods = tobacco
+life_rating = 15

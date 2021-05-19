@@ -1,0 +1,6 @@
+owner = AQI
+controller = AQI
+add_core = AQI
+trade_goods = grain
+life_rating = 32
+1861.1.1 = { railroad = 3 }

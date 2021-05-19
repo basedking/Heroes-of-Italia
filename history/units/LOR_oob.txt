@@ -1,0 +1,51 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "First Army"
+location = 436
+regiment = {
+name = "1st Hussar"
+type = hussar
+home = 436
+}
+regiment = {
+name = "1st Infantry"
+type = infantry
+home = 434
+}
+regiment = {
+name = "2nd Infantry"
+type = infantry
+home = 426
+}
+regiment = {
+name = "3rd Infantry"
+type = infantry
+home = 441
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 440
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 438
+}
+regiment = {
+name = "3rd Artillery"
+type = artillery
+home = 439
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+
