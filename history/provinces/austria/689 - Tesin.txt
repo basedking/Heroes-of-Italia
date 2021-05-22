@@ -1,6 +1,5 @@
-owner = SIL
-controller = SIL
-add_core = AUS
+owner = BOH
+controller = BOH
 add_core = BOH
 add_core = CZH
 trade_goods = coal

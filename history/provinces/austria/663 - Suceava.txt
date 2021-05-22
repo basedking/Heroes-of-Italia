@@ -1,6 +1,5 @@
 owner = ROM
 controller = ROM
-add_core = AUS
 add_core = MOL
 add_core = ROM
 #add_core = UKR

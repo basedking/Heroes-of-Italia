@@ -1,6 +1,5 @@
-owner = SIL
-controller = SIL
-add_core = AUS
+owner = POL
+controller = POL
 add_core = POL
 trade_goods = coal
 life_rating = 40
