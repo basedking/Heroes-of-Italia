@@ -10,17 +10,117 @@ army = {
 	name = "Army of the Principality of Serbia"
 	location = 794
 	regiment = {
-		name= "1st Serbian Infantry"
-		type = infantry
+		name= "1st Cuirassier"
+		type = cuirassier
 		home = 794
 	}
 
 	regiment = {
-		name= "2nd Serbian Infantry"
-		type = infantry
+		name= "2nd Cuirassier"
+		type = cuirassier
 		home = 795
 	}
+	
+	regiment = {
+		name= "3rd Cuirassier"
+		type = cuirassier
+		home = 2583
+	}
+	
+	regiment = {
+		name= "4th Cuirassier"
+		type = cuirassier
+		home = 796
+	}
+	
+	regiment = {
+		name= "5th Cuirassier"
+		type = cuirassier
+		home = 797
+	}
+	
+	regiment = {
+		name= "6th Cuirassier"
+		type = cuirassier
+		home = 804
+	}
 
+	regiment = {
+		name= "7th Cuirassier"
+		type = cuirassier
+		home = 798
+	}
 
+	regiment = {
+		name= "8th Cuirassier"
+		type = cuirassier
+		home = 802
+	}
+
+	regiment = {
+		name= "9th Cuirassier"
+		type = cuirassier
+		home = 799
+	}
+
+	regiment = {
+		name= "10th Cuirassier"
+		type = cuirassier
+		home = 803
+	}
 }
 
+army = {
+name = "Army of the Tsardom of Bulgaria"
+location = 809
+regiment = {
+name = "1st Hussar"
+type = hussar
+home = 809
+}
+regiment = {
+name = "1st Infantry"
+type = infantry
+home = 810
+}
+regiment = {
+name = "2nd Infantry"
+type = infantry
+home = 812
+}
+regiment = {
+name = "3rd Infantry"
+type = infantry
+home = 811
+}
+regiment = {
+name = "4th Infantry"
+type = infantry
+home = 813
+}
+regiment = {
+name = "1st Artillery"
+type = artillery
+home = 814
+}
+regiment = {
+name = "2nd Artillery"
+type = artillery
+home = 818
+}
+regiment = {
+name = "3rd Artillery"
+type = artillery
+home = 674
+}
+regiment = {
+name = "4th Artillery"
+type = artillery
+home = 675
+}
+regiment = {
+name = "5th Artillery"
+type = artillery
+home = 806
+}
+}

@@ -1,6 +1,8 @@
 capital = 809 #Sofia
 primary_culture = bulgarian
-culture = serbian
+culture = serb
+culture = croat
+culture = bosniak
 religion = orthodox
 government = hms_government
 plurality = 25.0
