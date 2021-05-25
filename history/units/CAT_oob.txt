@@ -1,0 +1,47 @@
+leader = {
+	name = "Baldomero Espartero"
+	date = 1834.1.1
+	type = land
+	personality = diplomatic
+	background = war_college
+	prestige = 0.1
+}
+
+leader = {
+	name = "Francisco Serrano"
+	date = 1833.1.1
+	type = land
+	personality = expert
+	background = war_college
+	prestige = 0.0
+}
+
+#Army
+army = {
+	name = "Ejército Cristiano del Catalonia"
+	location = 498
+	regiment = {
+		name= "1. Granaderos del Rey"
+		type = infantry
+		home = 498
+	}
+
+	regiment = {
+		name= "2. Granaderos del Rey"
+		type = artillery
+		home = 495
+	}
+
+	regiment = {
+		name= "1. Brigada de Infantería 'El Ramillete'"
+		type = hussar
+		home = 497
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = infantry
+		home = 503
+	}
+
+}

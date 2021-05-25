@@ -189,7 +189,7 @@ army = {
 
 army = {
 	name = "Ejército del Norte"
-	location = 498
+	location = 480
 	
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"

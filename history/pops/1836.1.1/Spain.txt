@@ -1,48 +1,80 @@
 #Galicia-Asturias Region (1572000)
 #La Coruna (796000/199000 POPS)
 474 = {
-	aristocrats = {
-		culture = spanish
-		religion = catholic
-		size = 2200
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 531
+    }
 
-	officers = {
-		culture = spanish
-		religion = catholic
-		size = 450
-	}
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 856
+    }
 
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 650
-	}
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 171
+    }
 
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 2000
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 424
+    }
 
-	artisans = {
-		culture = spanish
-		religion = catholic
-		size = 6350
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 2124
+    }
 
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 3000
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 1380
+    }
 
-	farmers = {
-		culture = spanish
-		religion = catholic
-		size = 154350
-	}
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 48325
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 1182
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 803
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 4255
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 2765
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 107563
+    }
+
 }
+
 #Oviedo (448000/112000 POPS)
 475 = {
 	aristocrats = {
@@ -95,37 +127,80 @@
 }
 #Vigo (328000/82000 POPS)
 476 = {
-	aristocrats = {
-		culture = spanish
-		religion = catholic
-		size = 700
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 317
+    }
 
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 800
-	}
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 407
+    }
 
-	artisans = {
-		culture = spanish
-		religion = catholic
-		size = 4000
-	}
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 81
+    }
 
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 1100
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 253
+    }
 
-	farmers = {
-		culture = spanish
-		religion = catholic
-		size = 75500
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 1269
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 825
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 28890
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 496
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 337
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 1787
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 1161
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 45187
+    }
 
 }
+
 #Leon Region (888000)
 #Leon (280000/70000 POPS)
 477 = {
