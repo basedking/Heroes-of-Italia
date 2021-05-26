@@ -198,6 +198,7 @@ political_decisions = {
 					is_culture_group = scandinavian
 					is_culture_group = italian
 					is_culture_group = arab
+					is_culture_group = french
 					tag = ECU
 					tag = CLM
 					tag = VNZ
@@ -325,6 +326,50 @@ political_decisions = {
 			any_country = {
 				limit = {
 					is_culture_group = italian
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	form_france = {
+		potential = {
+			is_culture_group = french
+			
+			NOT = {
+				exists = FRA
+			}
+		}
+		
+		allow = {
+			is_greater_power = yes
+			prestige = 45
+			war = no
+			FRA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = FRA
+			capital = 425
+			add_accepted_culture = french
+			add_accepted_culture = wallonian
+			add_accepted_culture = occitan
+			any_country = {
+				limit = {
+					primary_culture = french
 					in_sphere = THIS
 				}
 				country_event = { id=11101 days=0 }
@@ -490,7 +535,59 @@ political_decisions = {
 			clr_global_flag = germany_has_renamed_elsass
 		}
 	}
-	
+	reclaim_occitania = {
+		potential = {
+			tag = FRA
+			NOT = {
+				has_global_flag = france_reclaim_occitania
+			}
+		}	
+		allow = {
+			war = no
+			is_greater_power = yes
+			state_n_government = 1
+		}
+		
+		effect = {
+			prestige = 5
+			1700 = { add_core = FRA }
+			442 = { add_core = FRA }
+			443 = { add_core = FRA }
+			444 = { add_core = FRA }
+			458 = { add_core = FRA }
+			459 = { add_core = FRA }
+			460 = { add_core = FRA }
+			445 = { add_core = FRA }
+			446 = { add_core = FRA }
+			447 = { add_core = FRA }
+			455 = { add_core = FRA }
+			456 = { add_core = FRA }
+			457 = { add_core = FRA }
+			448 = { add_core = FRA }
+			449 = { add_core = FRA }
+			450 = { add_core = FRA }
+			461 = { add_core = FRA }
+			462 = { add_core = FRA }
+			463 = { add_core = FRA }
+			452 = { add_core = FRA }
+			451 = { add_core = FRA }
+			453 = { add_core = FRA }
+			454 = { add_core = FRA }
+			467 = { add_core = FRA }
+			468 = { add_core = FRA }
+			469 = { add_core = FRA }
+			470 = { add_core = FRA }
+			471 = { add_core = FRA }
+			464 = { add_core = FRA }
+			set_global_flag = france_reclaim_occitania
+
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 	form_gran_colombia = {
 		potential = {
 			OR = {
