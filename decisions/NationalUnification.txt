@@ -550,44 +550,19 @@ political_decisions = {
 		
 		effect = {
 			prestige = 5
-			1700 = { add_core = FRA }
-			442 = { add_core = FRA }
-			443 = { add_core = FRA }
-			444 = { add_core = FRA }
-			458 = { add_core = FRA }
-			459 = { add_core = FRA }
-			460 = { add_core = FRA }
-			445 = { add_core = FRA }
-			446 = { add_core = FRA }
-			447 = { add_core = FRA }
-			455 = { add_core = FRA }
-			456 = { add_core = FRA }
-			457 = { add_core = FRA }
-			448 = { add_core = FRA }
-			449 = { add_core = FRA }
-			450 = { add_core = FRA }
-			461 = { add_core = FRA }
-			462 = { add_core = FRA }
-			463 = { add_core = FRA }
-			452 = { add_core = FRA }
-			451 = { add_core = FRA }
-			453 = { add_core = FRA }
-			454 = { add_core = FRA }
-			467 = { add_core = FRA }
-			468 = { add_core = FRA }
-			469 = { add_core = FRA }
-			470 = { add_core = FRA }
-			471 = { add_core = FRA }
-			464 = { add_core = FRA }
+			OCC = { all_core = { add_core = FRA } }
+			AQI = { all_core = { add_core = FRA } } 
+			FRA_467 = { add_core = FRA } 
+			FRA_451 = { add_core = FRA } 
+			1700 = { add_core = FRA } 
 			set_global_flag = france_reclaim_occitania
-
 		}
 		
 		ai_will_do = {
 			factor = 1
 		}
 	}
-
+}
 	form_gran_colombia = {
 		potential = {
 			OR = {
