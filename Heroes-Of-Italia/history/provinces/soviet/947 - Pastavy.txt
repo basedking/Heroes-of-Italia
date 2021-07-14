@@ -1,6 +1,6 @@
-owner = UBD
-controller = UBD
-add_core = RUS
+owner = LIT
+controller = LIT
+add_core = LIT
 #add_core = POL
 #add_core = LIT
 add_core = BYE
