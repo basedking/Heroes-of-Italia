@@ -17,7 +17,7 @@ name = "Texan War of Independence"
 
 }
 
-1836.4.21 = {
+1835.12.12 = {
 	rem_attacker = MEX
 	rem_defender = TEX
 }
