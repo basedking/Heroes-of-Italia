@@ -2,91 +2,153 @@
 #ruled by Russia 1836
 #Sitka (8000/2000 POPS)
 1 = {
-	bureaucrats = {
-		culture = russian
-		religion = orthodox
-		size = 2
-	}
+    aristocrats = {
+        culture = starovery
+        religion = orthodox
+        size = 4
+    }
 
-	clergymen = {
-		culture = russian
-		religion = orthodox
-		size = 10
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 10
+    }
 
-	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 28
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 2
+    }
 
-	soldiers = {
-		culture = russian
-		religion = orthodox
-		size = 10
-	}
+    clergymen = {
+        culture = starovery
+        religion = orthodox
+        size = 3
+    }
 
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 16
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 12
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 100
-	}
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 362
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 16
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 1750
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 10
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 57
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 44
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 1448
+    }
+
 }
 #Yakutat (4000/1000 POPS)
 2 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = starovery
+        religion = orthodox
+        size = 6
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 15
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 3
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = starovery
+        religion = orthodox
+        size = 4
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 900
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 24
+    }
+
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 18
+    }
+
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 543
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 24
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 16
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 86
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 66
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 2172
+    }
+
 }
 #Kenai (2400/600 POPS)
 3 = {
@@ -344,35 +406,77 @@
 #claims by Britain and USA in 1836, de facto Native American rule
 #Seattle (12000/3000 POPS)
 78 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = starovery
+        religion = orthodox
+        size = 301
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 75
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 165
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 150
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 33
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = starovery
+        religion = orthodox
+        size = 240
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 2700
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 1204
+    }
+
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 933
+    }
+
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 27243
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 29
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 20
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 107
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 83
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 2694
+    }
 }
 #Spokane (4000/1000 POPS)
 79 = {
@@ -442,35 +546,78 @@
 #claims by Britain and USA in 1836, de facto Native American rule
 #Portland (12000/3000 POPS)
 81 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = starovery
+        religion = orthodox
+        size = 160
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 75
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 102
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 150
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 20
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = starovery
+        religion = orthodox
+        size = 128
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 2700
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 642
+    }
+
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 497
+    }
+
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 14527
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 45
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 30
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 162
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 126
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 4097
+    }
+
 }
 #Baker City (4000/1000 POPS)
 82 = {
@@ -540,197 +687,291 @@
 #ruled by Mexico 1836
 #San Francisco (9600/2400 POPS)
 84 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
+    aristocrats = {
+        culture = starovery
+        religion = orthodox
+        size = 397
+    }
 
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 207
+    }
 
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 20
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 41
+    }
 
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
+    clergymen = {
+        culture = starovery
+        religion = orthodox
+        size = 317
+    }
 
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 350
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 1589
+    }
 
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 1232
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 35972
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 100
-	}
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 16
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 11
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 1800
-	}
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 59
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 46
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 1498
+    }
+
 }
 #Eureka (4000/1000 POPS)
 85 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = starovery
+        religion = orthodox
+        size = 106
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 62
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 12
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = starovery
+        religion = orthodox
+        size = 84
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 900
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 424
+    }
+
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 328
+    }
+
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 9597
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 18
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 12
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 67
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 52
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 1693
+    }
+
 }
 #Sacramento (12000/3000 POPS)
 86 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 15
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 75
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 3
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 3
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 2
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 2700
-	}
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 82
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 29
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 20
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 106
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 82
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 2666
+    }
+
 }
 #Monterey (6400/1600 POPS)
 87 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 12
-	}
+    aristocrats = {
+        culture = starovery
+        religion = orthodox
+        size = 176
+    }
 
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 3
-	}
+    bureaucrats = {
+        culture = starovery
+        religion = orthodox
+        size = 101
+    }
 
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 15
-	}
+    officers = {
+        culture = starovery
+        religion = orthodox
+        size = 20
+    }
 
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 35
-	}
+    clergymen = {
+        culture = starovery
+        religion = orthodox
+        size = 141
+    }
 
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
+    artisans = {
+        culture = starovery
+        religion = orthodox
+        size = 706
+    }
 
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 525
-	}
+    soldiers = {
+        culture = starovery
+        religion = orthodox
+        size = 547
+    }
 
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
+    farmers = {
+        culture = starovery
+        religion = orthodox
+        size = 15987
+    }
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 26
+    }
 
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 17
+    }
 
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 15
-	}
+    artisans = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 95
+    }
 
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 900
-	}
+    soldiers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 73
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = orthodox
+        size = 2389
+    }
+
 }
 #Mariposa (8000/2000 POPS)
 88 = {

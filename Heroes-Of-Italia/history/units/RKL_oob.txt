@@ -1,0 +1,46 @@
+army = {
+	name = "Kaliforniya Expeditionary Corps"
+	location = 14
+	regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 78
+	}
+
+	regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 84
+	}
+
+}
+
+navy = {
+	name = "Kaliforniya Company Coast Guard"
+	location = 84
+	ship = {
+		name= "Nord Adler"
+		type = manowar
+	}
+
+	ship = {
+		name= "Feodosii Totemskii"
+		type = frigate
+	}
+
+	ship = {
+		name= "Chtchastlivyï"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+
+}
