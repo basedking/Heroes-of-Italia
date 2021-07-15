@@ -1,7 +1,6 @@
 owner = HIS
 controller = HIS
 add_core = HIS
-add_core = CAL
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {

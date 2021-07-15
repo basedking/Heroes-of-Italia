@@ -2985,50 +2985,50 @@
 133 = {
 #Austin (14000/3500 POPS)
 	aristocrats = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 75
 	}
 
 	officers = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 125
 	}
 
 	soldiers = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 2220
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 500
 	}
 
@@ -3096,38 +3096,38 @@
 #San Antonio (10000/2500 POPS)
 137 = {
 	aristocrats = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = texan
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 1575
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 250
 	}
 
@@ -7000,124 +7000,124 @@
 #Tallahassee (32000/8000 POPS)
 198 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 175
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 3550
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 3900
 	}
 }
 #St Augustine (48000/12000 POPS)
 199 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 325
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 7350
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 3900
 	}
 }
