@@ -1,6 +1,6 @@
-owner = NEN
-controller = NEN
-add_core = NEN
+owner = WCR
+controller = WCR
+add_core = WCR
 trade_goods = timber
 life_rating = 30
 1861.1.1 = {
