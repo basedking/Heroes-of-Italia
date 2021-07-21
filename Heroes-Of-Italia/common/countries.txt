@@ -245,6 +245,7 @@ QUE		="countries/Quebec.txt"
 TEX		="countries/Texas.txt"
 UCA		="countries/United States of Central America.txt"
 WCR		="countries/Cree.txt"
+SHA		="countries/Shawnee.txt"
 
 # South America
 ARG		="countries/Argentina.txt"
