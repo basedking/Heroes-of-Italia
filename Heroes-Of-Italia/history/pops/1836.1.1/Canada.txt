@@ -794,25 +794,25 @@
 22 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -976,25 +976,25 @@
 26 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -1032,25 +1032,25 @@
 27 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -1088,25 +1088,25 @@
 28 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -1241,25 +1241,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 }
@@ -1299,25 +1299,25 @@
 32 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -1355,25 +1355,25 @@
 33 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -1411,25 +1411,25 @@
 34 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -1532,49 +1532,49 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
 	clergymen = {
 		culture = metis
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = protestant
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = protestant
+		religion = animist
 		size = 910
 	}
 }
@@ -1676,25 +1676,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 }
@@ -1732,25 +1732,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 }
@@ -1788,25 +1788,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 }
@@ -1844,25 +1844,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 
@@ -1967,25 +1967,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = animist
 		size = 910
 	}
 }
