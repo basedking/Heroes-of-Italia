@@ -5,9 +5,15 @@ government = democracy
 plurality = 5.0
 nationalvalue = nv_liberty
 literacy = 0.17
-civilized = yes
+civilized = no
 is_releasable_vassal = no
 
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+land_reform = yes_land_reform
+
+# Technology
+flintlock_rifles = 1
 
 # Political reforms
 slavery = no_slavery

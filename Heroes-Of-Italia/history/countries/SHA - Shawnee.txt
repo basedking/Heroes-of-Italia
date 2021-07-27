@@ -17,6 +17,22 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+land_reform = yes_land_reform
+foreign_officers = yes_foreign_officers
+pre_indust = yes_pre_indust
+education_reform = yes_education_reform
+military_constructions = yes_military_constructions
+
+# Technology
+flintlock_rifles = 1
+military_staff_system = 1
+water_wheel_power = 1
+malthusian_thought = 1
+post_napoleonic_thought = 1
+
 oob = "SHA_oob.txt"
 slavery = yes_slavery
 upper_house_composition = state_equal_weight

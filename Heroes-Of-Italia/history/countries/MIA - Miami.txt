@@ -1,5 +1,5 @@
 capital = 155
-primary_culture = dakota
+primary_culture = native_american_minor
 religion = animist
 government = democracy
 plurality = 5.0
@@ -17,6 +17,13 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+land_reform = yes_land_reform
+
+# Technology
+flintlock_rifles = 1
 
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
