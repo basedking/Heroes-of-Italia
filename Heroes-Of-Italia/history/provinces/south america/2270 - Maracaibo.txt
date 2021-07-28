@@ -1,5 +1,5 @@
-owner = VNZ
-controller = VNZ
+owner = GCO
+controller = GCO
 add_core = VNZ
 add_core = GCO
 trade_goods = coffee
