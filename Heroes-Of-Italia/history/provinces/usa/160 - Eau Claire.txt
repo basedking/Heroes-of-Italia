@@ -1,9 +1,8 @@
-owner = NEN
-controller = NEN
-add_core = NEN
+owner = SHA
+controller = SHA
+add_core = SHA
 trade_goods = grain
 life_rating = 35
-colony = 2
 1861.1.1 = {
 	colony = 0
 	}

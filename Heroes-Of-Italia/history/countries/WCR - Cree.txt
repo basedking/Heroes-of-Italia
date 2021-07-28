@@ -1,13 +1,13 @@
-capital = 114
-primary_culture = cherokee
+capital = 37
+primary_culture = cree
 religion = animist
 government = democracy
 plurality = 5.0
 nationalvalue = nv_liberty
-literacy = 0.50
+literacy = 0.19
 civilized = no
 
-ruling_party = SHO_conservative
+ruling_party = WCR_conservative
 upper_house = {
 	fascist = 0
 	liberal = 26
@@ -25,6 +25,7 @@ land_reform = yes_land_reform
 # Technology
 flintlock_rifles = 1
 
+oob = "WCR_oob.txt"
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = universal_weighted_voting

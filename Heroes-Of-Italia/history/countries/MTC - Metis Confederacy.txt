@@ -1,13 +1,19 @@
-capital = 37
+capital = 34
 primary_culture = metis
-religion = catholic
+religion = animist
 government = democracy
 plurality = 5.0
 nationalvalue = nv_liberty
 literacy = 0.17
-civilized = yes
+civilized = no
 is_releasable_vassal = no
 
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+land_reform = yes_land_reform
+
+# Technology
+flintlock_rifles = 1
 
 # Political reforms
 slavery = no_slavery
@@ -28,6 +34,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+oob = "MTC_oob.txt"
 ruling_party = MTC_conservative
 upper_house = {
 	fascist = 0
