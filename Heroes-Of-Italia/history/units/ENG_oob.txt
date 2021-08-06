@@ -76,12 +76,6 @@ ARG = {
 	influence_value = 25
 }
 
-AWA = {
-	value = 125
-	level = 5
-	influence_value = 25
-}
-
 BAS = {
 	value = 125
 	level = 5
@@ -101,12 +95,6 @@ BIK = {
 }
 
 BHO = {
-	value = 125
-	level = 5
-	influence_value = 25
-}
-
-BUN = {
 	value = 125
 	level = 5
 	influence_value = 25
@@ -628,8 +616,8 @@ army = {
 }
 
 army = {
-	name = "The Delhi Army"
-	location = 1239
+	name = "The Madurai Army"
+	location = 1310
 	regiment = {
 		name= "1.2nd Cavalry Division"
 		type = cuirassier
@@ -684,28 +672,7 @@ army = {
 		home = 258
 	}
 }
-army = {
-	name = "5th Indian Division"
-	location = 1236
-	regiment = {
-		name= "1.5th Indian Division"
-		type = infantry
-		home = 1236
-	}
 
-	regiment = {
-		name= "2.5th Indian Division"
-		type = infantry
-		home = 1239
-	}
-
-	regiment = {
-		name= "3.5th Indian Division"
-		type = infantry
-		home = 1251
-	}
-
-}
 
 navy = {
 	name = "Channel Fleet"
@@ -1505,7 +1472,7 @@ navy = {
 
 navy = {
 	name = "East Indies Station"
-	location = 1321 #Colombo
+	location = 1304 #Madras
 	ship = {
 		name= "HMS Madagascar"
 		type = frigate
@@ -1612,7 +1579,7 @@ navy = {
 
 navy = {
 	name = "3rd Transport Squadron"
-	location = 1321 #Colombo
+	location = 1304 #Madras
 	ship = {
 		name= "11th Transport Flotilla"
 		type = clipper_transport

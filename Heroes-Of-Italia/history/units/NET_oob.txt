@@ -209,6 +209,54 @@ army = {
 	}
 }
 
+army = { 
+	name = "Tasmania Garrison"
+	location = 2482
+	regiment = {
+		name = "1st Colonial Garrison"
+		type = infantry
+		home = 382
+	}
+}
+
+army = { 
+	name = "New Zealand Garrison"
+	location = 2510
+	regiment = { 
+		name = "2nd Colonial Garrison"
+		type = infantry 
+		home = 1414
+	}
+}
+
+army = { 
+	name = "Ceylon Colonial Garrison"
+	location = 1321
+	regiment = { 
+		name = "3rd Colonial Garrison"
+		type = infantry 
+		home = 1403
+	}
+	
+	regiment = { 
+		name = "4th Colonial Garrison"
+		type = infantry 
+		home = 1399
+	}
+	
+	regiment = { 
+		name = "5th Colonial Garrison"
+		type = infantry 
+		home = 1413
+	}
+	
+	regiment = { 
+		name = "6th Colonial Garrison"
+		type = infantry 
+		home = 1418
+	}
+}
+
 navy = {
 	name = "Koninklijke Marine"
 	location = 375 #Amsterdam

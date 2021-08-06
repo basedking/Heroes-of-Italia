@@ -86,12 +86,12 @@ vassal = {
 #######################
 
 # United Kingdom-Awadh
-vassal = {
-	first = ENG
-	second = AWA
-	start_date = 1801.1.1
-	end_date = 1949.1.1
-}
+#vassal = {
+#	first = ENG
+#	second = AWA
+#	start_date = 1801.1.1
+#	end_date = 1949.1.1
+#}
 
 # United Kingdom-Bastar
 vassal = {
@@ -126,12 +126,12 @@ vassal = {
 }
 
 # United Kingdom-Bundelkhand
-vassal = {
-	first = ENG
-	second = BUN
-	start_date = 1817.1.1
-	end_date = 1949.1.1
-}
+#vassal = {
+#	first = ENG
+#	second = BUN
+#	start_date = 1817.1.1
+#	end_date = 1949.1.1
+#}
 
 # United Kingdom-Hyderabad
 vassal = {

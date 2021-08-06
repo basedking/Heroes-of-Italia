@@ -152,3 +152,14 @@ SIL_reactionary;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;
 SIL_anarcho_liberal;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
 SIL_communist;Communists;Communists;Communists;;;;;;;;;;;x;
 SIL_fascist;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+MUG_absolute_monarchy;The Mughal Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+MUG_prussian_constitutionalism;The Mughal Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+MUG_fascist_dictatorship;The Gurkani Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+MUG_proletarian_dictatorship;People's Republic of Mughalistan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+MUG_conservative;Mir Saman;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUG_liberal;Hanafi;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUG_reactionary;Mir Bakshi;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUG_anarcho_liberal;The Radical Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUG_socialist;The Socialist Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUG_communist;The Communist Party;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUG_fascist;The Fascist Party;;;;;;;;;;;;;;;;;;;;;x;;;;
