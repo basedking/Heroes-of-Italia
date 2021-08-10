@@ -163,3 +163,35 @@ MUG_anarcho_liberal;The Radical Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MUG_socialist;The Socialist Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MUG_communist;The Communist Party;;;;;;;;;;;;;;;;;;;;;x;;;;
 MUG_fascist;The Fascist Party;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUR;Rum;x
+TUR_adj;Ruman;x
+SYR;Syria;x
+SYR_ADJ;Syrian;x
+SYR_liberal;Hizb al-Islah al-Suriy;x
+SYR_conservative;Jam’iyat al-Arabiya al-Fatat;x
+SYR_socialist;Haraka al-Ishtirakiyyun al-Arab;x
+SYR_reactionary;Haraka al-Ahd al-Watani;x
+SYR_radical;Hizb al-Wataniyyin al-Ahrar;x
+SYR_communist;Al-hizb ash-Shuyu'i as-Suri;x
+SYR_fascist;Al-Hizb Al-Suri Al-Qawmi Al-'Ijtima'i;x
+KDS;Kurdistan;x
+KDS_ADJ;Kurdish;x
+KDS_conservative;Meclis-i Mîran;x
+KDS_conservative_2;Partiya Kurdistanę;x
+KDS_liberal;Azadi;x
+KDS_liberal_2;Hęvî;x
+KDS_liberal_3;Yeketî Nistîman;x
+KDS_reactionary;Meclis-i Mesayih;x
+KDS_reactionary_2;Bizutnawai Islami;x
+KDS_radical;Terakkipeweran;x
+KDS_socialist;Partiya Karkeręn;x
+KDS_socialist_2;Partiya Zahmatkesan;x
+KDS_fascist;Jiyanewe;;x
+KDS_communist;Komala;x
+JER;Jerusalem;x
+JER_adj;Jerusalemite;x
+JER_absolute_monarchy;Kingdom of Jerusalem;x
+JER_hms_government;Kingdom of Jerusalem;x
+JER_prussian_constitutionalism;Kingdom of Jerusalem;x
+ALI;Al-Ali Emirate;x 
+ALI_adj;Alite;x
