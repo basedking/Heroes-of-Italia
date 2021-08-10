@@ -1,12 +1,10 @@
 capital = 917
-primary_culture = french
-culture = syriac
-culture = afro_french
+primary_culture = sephardim
 religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0
+literacy = 0.30
 civilized = yes
 
 # Social Reforms
