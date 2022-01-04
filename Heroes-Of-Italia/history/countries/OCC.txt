@@ -4,8 +4,8 @@
 
 capital = 461
 primary_culture = occitan
-culture = french_canadian
-culture = wallonian
+
+
 culture = french
 religion = catholic
 government = hms_government

@@ -4,8 +4,8 @@
 
 capital = 418
 primary_culture = french
-culture = french_canadian
-culture = wallonian
+
+
 culture = occitan
 religion = catholic
 government = democracy

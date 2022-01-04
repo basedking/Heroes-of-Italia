@@ -90,8 +90,6 @@ country_event = {
 		year = 1891
 		NOT = {
 			year = 1894
-			exists = PAP
-			has_global_flag = RerumNovarum
 		}
 	}
 	

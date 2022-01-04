@@ -1,5 +1,5 @@
 capital = 917
-primary_culture = sephardim
+primary_culture = sephardic
 religion = catholic
 government = absolute_monarchy
 plurality = 0

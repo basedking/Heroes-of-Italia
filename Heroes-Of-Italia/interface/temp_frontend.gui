@@ -359,12 +359,12 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "tutorial_button"
-				position = { x = 400 y = 429 }
-				quadTextureSprite ="GFX_frontend_button_236"	
+				position = { x = 400000 y = 429000 }
+				quadTextureSprite ="GFX_frontend_button_236"
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
-				buttonText = "FE_TUTORIAL"
+				buttonText = ""
 				buttonFont = "vic_22_black"
 			}
 
