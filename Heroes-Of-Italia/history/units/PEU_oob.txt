@@ -2,7 +2,7 @@ leader = {
 	name = "Andres de Santa Cruz"
 	type = land
 	date = 1836.1.1
-	personality = attack_minus_1.1
+	personality = defence_minus_1.1
 	background = attack_1.4 
 }
 

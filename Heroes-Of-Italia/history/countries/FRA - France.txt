@@ -1,6 +1,5 @@
 capital = 425
 primary_culture = french
-culture = french_canadian
 culture = occitan
 culture = wallonian
 religion = catholic

@@ -197,31 +197,31 @@
 	}
 
 	aristocrats = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 100
 	}
 
 	clergymen = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 250
 	}
 
 	soldiers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 50
 	}
 
 	farmers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 4550
 	}
@@ -319,31 +319,31 @@
 	}
 
 	aristocrats = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 125
 	}
 
 	clergymen = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 350
 	}
 
 	soldiers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 75
 	}
 
 	farmers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 6375
 	}
@@ -591,31 +591,31 @@
 	}
 
 	aristocrats = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 25
 	}
 
 	clergymen = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 100
 	}
 
 	soldiers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 25
 	}
 
 	farmers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 1800
 	}
@@ -683,31 +683,31 @@
 	}
 
 	aristocrats = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 50
 	}
 
 	clergymen = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 150
 	}
 
 	soldiers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 25
 	}
 
 	farmers = {
-		culture = african_minorl
+		culture = mongol
 		religion = gelugpa
 		size = 2700
 	}

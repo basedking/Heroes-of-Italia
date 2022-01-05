@@ -10307,25 +10307,25 @@
 	}
 
 	clergymen = {
-		culture = french_canadian
+		culture = louisianan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = french_canadian
+		culture = louisianan
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = french_canadian
+		culture = louisianan
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = french_canadian
+		culture = louisianan
 		religion = catholic
 		size = 5575
 	}

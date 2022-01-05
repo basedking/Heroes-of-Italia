@@ -521,7 +521,7 @@
 		size = 4575
 	}
 }
-#Upper Swahili Coast Region (304000)  
+#Upper african_minor Coast Region (304000)  
 #ruled by kingdom of Oman in 1836
 #Mombasa (100000/25000 POPS)
 2029 = {

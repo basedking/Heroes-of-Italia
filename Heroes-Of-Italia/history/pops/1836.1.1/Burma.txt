@@ -1212,13 +1212,13 @@
 	}
 
 	clergymen = {
-		culture = bengali
+		culture = indo_aryan
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = bengali
+		culture = indo_aryan
 		religion = sunni
 		size = 1950
 	}

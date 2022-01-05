@@ -58,7 +58,7 @@ leader = {
 	name = "Baldomero Espartero"
 	date = 1834.1.1
 	type = land
-	personality = attack_1.187
+	personality = defence_1.187
 	background = attack_1.193
 	prestige = 0.1
 }
@@ -67,7 +67,7 @@ leader = {
 	name = "Francisco Serrano"
 	date = 1833.1.1
 	type = land
-	personality = attack_1.5
+	personality = defence_1.5
 	background = attack_1.193
 	prestige = 0.0
 }
@@ -76,8 +76,8 @@ leader = {
 	name = "Leopoldo O'Donnell"
 	date = 1836.1.1
 	type = land
-	personality = attack_2.2
-	background = defence_1.1
+	personality = defence_2.2
+	background = attack_1.1
 	prestige = 0.0
 }
 
@@ -85,7 +85,7 @@ leader = {
 	name = "Narváez"
 	date = 1836.1.1
 	type = land
-	personality = attack_2.2
+	personality = defence_2.2
 	background = attack_minus_2.1
 	prestige = 0.0
 }
@@ -94,8 +94,8 @@ leader = {
 	name = "Gerónimo Valdés"
 	date = 1836.1.1
 	type = land
-	personality = attack_1.1
-	background = defence_1.1
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.0
 }
 
@@ -103,7 +103,7 @@ leader = {
 	name = "Van Halen"
 	date = 1823.1.1
 	type = land
-	personality = attack_2.1
+	personality = defence_2.1
 	background = attack_2.1
 	prestige = 0.1
 }
@@ -112,7 +112,7 @@ leader = {
 	name = "José Ramón Rodil"
 	date = 1824.1.1
 	type = land
-	personality = attack_2.1
+	personality = defence_2.1
 	background = attack_2.1
 	prestige = 0.1
 }
@@ -159,7 +159,7 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Ingenieros"
-		type = personality = defence_1.2
+		type = engineer
 		home = 495
 	}
 

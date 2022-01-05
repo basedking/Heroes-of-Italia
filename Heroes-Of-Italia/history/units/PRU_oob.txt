@@ -244,7 +244,7 @@ leader = {
 	name = "von Zieten"
 	date = 1813.1.1
 	type = land
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_1.1
 	prestige = 0.2
 }
@@ -253,7 +253,7 @@ leader = {
 	name = "Hermann von Boyen"
 	date = 1814.1.1
 	type = land
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_1.4 
 	prestige = 0.2
 }
@@ -262,8 +262,8 @@ leader = {
 	name = "Wilhelm von Krauseneck"
 	date = 1814.1.1
 	type = land
-	personality = attack_minus_1.1
-	background= defence_1.2
+	personality = defence_minus_1.1
+	background = attack_1.2
 	prestige = 0.2
 }
 
@@ -271,8 +271,8 @@ leader = {
 	name = "Baron von Müffling"
 	date = 1813.1.1
 	type = land
-	personality = attack_1.187
-	background = defence_1.1
+	personality = defence_1.187
+	background = attack_1.1
 	prestige = 0.2
 }
 
@@ -280,7 +280,7 @@ leader = {
 	name = "August von Colomb"
 	date = 1829.1.1
 	type = land
-	personality = attack_1.168
+	personality = defence_1.168
 	background = attack_1.1
 	prestige = 0.1
 }
@@ -298,7 +298,7 @@ leader = {
 	name = "Rühle von Lilienstern"
 	date = 1819.1.1
 	type = land
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_minus_1.1
 	prestige = 0.2
 }
@@ -316,8 +316,8 @@ leader = {
 	name = "Heinrich von Wrangel"
 	date = 1823.1.1
 	type = land
-	personality = attack_2.2
-	background = defence_1.123
+	personality = defence_2.2
+	background = attack_1.123
 	prestige = 0.2
 }
 
@@ -325,7 +325,7 @@ leader = {
 	name = "Wilhelm von Neumann-Cosel"
 	date = 1836.1.1
 	type = land
-	personality = attack_2.99
+	personality = defence_2.99
 	background = attack_1.4 
 	prestige = 0.1
 }
@@ -334,7 +334,7 @@ leader = {
 	name = "Karl von Prittwitz"
 	date = 1836.1.1
 	type = land
-	personality = attack_2.1
+	personality = defence_2.1
 	background = attack_minus_2.1
 	prestige = 0.0
 }
@@ -343,7 +343,7 @@ leader = {
 	name = "von Reyher"
 	date = 1836.1.1
 	type = land
-	personality = attack_minus_1.94
+	personality = defence_minus_1.94
 	background = attack_1.1
 	prestige = 0.0
 }
@@ -373,7 +373,7 @@ army = {
 
 	regiment = {
 		name= "I. Pionierbrigade"
-		type = personality = defence_1.2
+		type = artillery
 		home = 577
 	}
 
@@ -426,7 +426,7 @@ army = {
 
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = personality = defence_1.2
+		type = engineer
 		home = 684
 	}
 
@@ -479,7 +479,7 @@ army = {
 
 	regiment = {
 		name= "III. Pionierbrigade"
-		type = personality = defence_1.2
+		type = engineer
 		home = 693
 	}
 
@@ -532,7 +532,7 @@ army = {
 
 	regiment = {
 		name= "IV. Pionierbrigade"
-		type = personality = defence_1.2
+		type = engineer
 		home = 680
 	}
 

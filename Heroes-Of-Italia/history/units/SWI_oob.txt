@@ -17,8 +17,8 @@ leader = {
 	name = "Henri Dufour"
 	date = 1831.1.1
 	type = land
-	personality = attack_1.1
-	background = defence_2.82
+	personality = defence_1.1
+	background = attack_2.82
 	prestige = 0.1
 }
 

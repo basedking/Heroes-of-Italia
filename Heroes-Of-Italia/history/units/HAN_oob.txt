@@ -11,8 +11,8 @@ leader = {
 	name = "Victor von Prott"
 	date = 1815.1.1
 	type = land
-	personality = attack_1.1
-	background= defence_1.2
+	personality = defence_1.1
+	background = attack_1.2
 	prestige = 0.3
 }
 
@@ -21,7 +21,7 @@ leader = {
 	date = 1825.1.1
 	type = land
 	personality = defence_2.1
-	background = defence_1.1
+	background = attack_1.1
 	prestige = 0.2
 }
 
@@ -29,7 +29,7 @@ leader = {
 	name = "Hugh Halkett"
 	date = 1834.1.1
 	type = land
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_2.1
 	prestige = 0.1
 }

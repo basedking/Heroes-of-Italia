@@ -190,7 +190,7 @@ leader = {
 	name = "Thomas Cochrane"
 	date = 1832.1.1
 	type = sea
-	personality = attack_2.1
+	personality = defence_2.1
 	background = attack_2.1
 	prestige = 0.1
 }
@@ -199,7 +199,7 @@ leader = {
 	name = "Sir Edward Codrington"
 	date = 1836.1.1
 	type = sea
-	personality = attack_3.1
+	personality = defence_3.1
 	background = attack_2.1
 	prestige = 0.3
 }
@@ -217,7 +217,7 @@ leader = {
 	name = "Sir George Cockburn"
 	date = 1812.1.1
 	type = sea
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_1.4 
 	prestige = 0.3
 }
@@ -226,7 +226,7 @@ leader = {
 	name = "John Seaton"
 	date = 1825.1.1
 	type = land
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_2.1
 	prestige = 0.2
 }
@@ -235,8 +235,8 @@ leader = {
 	name = "Whitworth-Aylmer"
 	date = 1825.1.1
 	type = land
-	personality = attack_minus_1.1
-	background = defence_1.1
+	personality = defence_minus_1.1
+	background = attack_1.1
 	prestige = 0.1
 }
 
@@ -253,7 +253,7 @@ leader = {
 	name = "Henry Smith"
 	date = 1834.1.1
 	type = land
-	personality = attack_2.2
+	personality = defence_2.2
 	background = attack_3.1
 	prestige = 0.1
 }
@@ -262,8 +262,8 @@ leader = {
 	name = "John Fox Burgoyne"
 	date = 1836.1.1
 	type = land
-	personality = attack_1.2
-	background= defence_1.2
+	personality = defence_1.2
+	background= attack_1.2
 	prestige = 0.0
 }
 
@@ -271,7 +271,7 @@ leader = {
 	name = "Raglan"
 	date = 1836.1.1
 	type = land
-	personality = attack_minus_1.1
+	personality = defence_minus_1.1
 	background = attack_1.89
 	prestige = 0.0
 }
@@ -280,7 +280,7 @@ leader = {
 	name = "Sir George Brown"
 	date = 1836.1.1
 	type = land
-	personality = attack_2.1
+	personality = defence_2.1
 	background = attack_1.1
 	prestige = 0.0
 }
@@ -290,7 +290,7 @@ leader = {
 	date = 1836.1.1
 	type = sea
 	personality = defence_2.1
-	background = defence_1.123
+	background = attack_1.123
 	prestige = 0.0
 }
 

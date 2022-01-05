@@ -3,7 +3,7 @@ leader = {
 	type = land
 	date="1836.1.1"
 	personality = defence_2.1
-	background = defence_2.1
+	background = attack_2.1
 }
 
 

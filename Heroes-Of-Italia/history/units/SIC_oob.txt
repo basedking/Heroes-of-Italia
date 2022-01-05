@@ -2,8 +2,8 @@ leader = {
 	name = "Carlo Filangieri"
 	date = 1831.1.1
 	type = land
-	personality = attack_2.1
-	background = defence_1.1
+	personality = defence_2.1
+	background = attack_1.1
 	prestige = 0.2
 }
 
@@ -11,7 +11,7 @@ leader = {
 	name = "Rafaella de Cosa"
 	date = 1836.1.1
 	type = sea
-	personality = attack_2.99
+	personality = defence_2.99
 	background = attack_1.193
 }
 
@@ -19,7 +19,7 @@ leader = {
 	name = "Francesco Mendoza"
 	date = 1830.1.1
 	type = land
-	personality = attack_minus_1.1
+	personality = defence_minus_1.1
 	background = attack_1.89
 	prestige = 0.2
 }
@@ -28,7 +28,7 @@ leader = {
 	name = "Leopoldo di Borbone"
 	date = 1809.1.1
 	type = land
-	personality = attack_minus_1.161
+	personality = defence_minus_1.161
 	background = attack_1.89
 	prestige = 0.3
 }
@@ -37,15 +37,15 @@ leader = {
 	name = "Paolo Ruffo"
 	date = 1836.1.1
 	type = land
-	personality = attack_1.187
-	background = defence_1.1
+	personality = defence_1.187
+	background = attack_1.1
 }
 
 leader = {
 	name = "Ferdinando II"
 	date = 1820.1.1
 	type = land
-	personality = attack_minus_1.1
+	personality = defence_minus_1.1
 	background = attack_2.1
 	prestige = 0.5
 }

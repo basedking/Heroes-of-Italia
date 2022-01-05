@@ -2,7 +2,7 @@ leader = {
 	name = "Baldomero Espartero"
 	date = 1834.1.1
 	type = land
-	personality = attack_1.187
+	personality = defence_1.187
 	background = attack_1.193
 	prestige = 0.1
 }
@@ -11,7 +11,7 @@ leader = {
 	name = "Francisco Serrano"
 	date = 1833.1.1
 	type = land
-	personality = attack_1.5
+	personality = defence_1.5
 	background = attack_1.193
 	prestige = 0.0
 }

@@ -5,7 +5,7 @@ army = {
 		name = "Tokugawa Nariaki"
 		date = 1836.1.1
 		type = land
-		personality = attack_2.1
+		personality = defence_2.1
 		background = attack_1.4 
 		prestige = 0.1
 	

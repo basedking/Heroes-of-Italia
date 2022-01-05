@@ -11,7 +11,7 @@ leader = {
 	name = "Zorawar Singh"
 	type = land
 	date = 1834.1.1
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_2.1
 	prestige = 0.1
 }
@@ -21,7 +21,7 @@ leader = {
 	name = "Paolo Avitabile"
 	type = land
 	date = 1827.1.1
-	personality = attack_2.1
+	personality = defence_2.1
 	background = attack_2.1
 	prestige = 0.1
 }
@@ -30,7 +30,7 @@ leader = {
 	name = "Jean-Francois Allard"
 	type = land
 	date = 1822.1.1
-	personality = attack_1.1
+	personality = defence_1.1
 	background = attack_1.1
 	prestige = 0.2
 }
@@ -39,7 +39,7 @@ leader = {
 	name = "Jean-Baptiste Ventura"
 	type = land
 	date = 1822.1.1
-	personality = attack_1.145
+	personality = defence_1.145
 	background = attack_2.1
 	prestige = 0.1
 }
@@ -48,8 +48,8 @@ leader = {
 	name = "Alexander Gardner"
 	type = land
 	date = 1831.1.1
-	personality = attack_2.99
-	background = defence_1.1
+	personality = defence_2.99
+	background = attack_1.1
 	prestige = 0.1
 }
 

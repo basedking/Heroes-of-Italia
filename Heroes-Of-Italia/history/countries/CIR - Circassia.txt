@@ -34,12 +34,12 @@ oob = "CIR_oob.txt"
 
 
 foreign_weapons = yes_foreign_weapons
-foreign_artillery = yes_foreign_artillery
+foreign_training = yes_foreign_training
 
 
 # Technologies
 flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
+
 
 ruling_party = CIR_conservative
 upper_house = {
