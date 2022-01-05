@@ -44,6 +44,7 @@ POR		= "countries/Portugal.txt"
 SCO		= "countries/Scotland.txt"
 SPA		= "countries/Spain.txt"
 WLL		= "countries/Wallonia.txt"
+UPB		= "countries/UPB.txt"
 
 # Germany
 ANH		= "countries/Anhalt.txt"
@@ -163,6 +164,7 @@ SYR		="countries/Syria.txt"
 KDS		="countries/Kurdistan.txt"
 ALI		="countries/Al-Ali Emirate.txt"
 JER		="countries/Jerusalem.txt"
+CIR		="countries/Circassia.txt"
 
 # India
 HND 		="countries/India.txt"

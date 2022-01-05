@@ -244,28 +244,16 @@ vassal = {
 	end_date = 1861.1.1
 }
 
-
-#########1861
-# Siam - Cambodia
-vassal = {
-	first = SIA
-	second = CAM
-	start_date = 1861.1.1
-	end_date = 1936.1.1
+vassal = { 	#Persia and Armenia
+	first = PER
+	second = ARM 
+	start_date = 1835.1.1
+	end_date = 1935.1.1
 }
 
-# UK - KAS
-vassal = {
-	first = ENG
-	second = KAS
-	start_date = 1861.1.1
-	end_date = 1936.1.1
-}
-
-# OE - Hejaz 
-vassal = {
-	first = TUR
-	second = HDJ
-	start_date = 1861.1.1
-	end_date = 1936.1.1
+vassal = { 	#Russia and Georgia
+	first = RUS
+	second = GEO
+	start_date = 1835.1.1
+	end_date = 1935.1.1
 }

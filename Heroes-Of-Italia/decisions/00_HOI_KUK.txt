@@ -1,0 +1,114 @@
+political_decisions = {
+	enact_dual_monarchy = {
+		potential = {
+			tag = HUN
+			war = no
+			OR = {
+				government = absolute_monarchy
+				government = hms_government
+				government = prussian_constitutionalism
+			}
+		}
+	
+		allow = {
+			AUS = { 
+				OR = { 
+					in_sphere = THIS 
+					all_core = { owned_by = THIS } 
+				}
+			}
+			NOT = {
+				OR = {
+					exists = AUS
+					exists = KUK
+					average_militancy = 5
+				}
+			}
+			
+			nationalism_n_imperialism = 1
+		}
+	
+		effect = {
+			inherit = AUS
+			AUS = { 
+				all_core = { 
+					add_core = KUK
+				}
+				all_core = { remove_core = GER }
+			}
+			all_core = {
+				add_core = KUK
+			}
+			any_pop = {
+				limit = {
+					culture = south_german
+				}
+				militancy = -2
+			}
+			any_pop = {
+				limit = {
+					NOT = {
+						OR = {
+							culture = hungarian
+							culture = south_german
+						}
+					}
+				}
+				militancy = 2
+			}
+						
+			add_accepted_culture = south_german
+			change_tag = KUK
+			set_country_flag = dual_monarchy_done
+		}
+	}
+	take_bohemia = { 
+		picture = bohemia
+		potential = { 
+			tag = KUK
+			NOT = { accepted_culture = czech }
+		}	
+		allow = { 
+			has_unclaimed_cores = no
+		}	
+		effect = { 
+			BOH = { all_core = { add_core = KUK } } 
+			add_accepted_culture = czech
+			badboy = 6
+		}
+	}
+	accept_slovak = {
+		picture = slovakia
+		potential = {
+			tag = KUK
+			NOT = {accepted_culture = slovak}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			is_greater_power = yes
+		}
+		effect = {
+			add_accepted_culture = slovak
+			prestige = 5
+		}
+	}
+	galicia_claims = { 
+		picture = galicia
+		potential = {
+			tag = KUK
+			NOT = { has_country_flag = galicia_claims }
+		}
+		allow = {
+			accepted_culture = czech
+			BOH = { all_core = { owned_by = THIS } }
+		}
+		effect = { 
+			AUS_702 = { add_core = THIS }
+			AUS_662 = { add_core = THIS } 
+			702 = { owner = { relation = { who = KUK value = -400 } } }
+			set_country_flag = galicia_claims
+		}
+	}
+}
+			
+	

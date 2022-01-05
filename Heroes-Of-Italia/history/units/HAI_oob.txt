@@ -2,8 +2,8 @@ leader = {
 	name = "Jean-Pierre Boyer"
 	date = 1820.1.1
 	type = land
-	personality = lackluster
-	background = corrupt
+	personality = attack_minus_1.1
+	background = attack_minus_2.1
 	prestige = 0.2
 }
 

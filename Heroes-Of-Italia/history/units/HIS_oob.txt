@@ -2,8 +2,8 @@ leader = {
 	name = "Gerónimo Valdés"
 	date = 1836.1.1
 	type = land
-	personality = competent
-	background = generals_aide
+	personality = attack_1.1
+	background = defence_1.1
 	prestige = 0.0
 }
 
@@ -11,8 +11,8 @@ leader = {
 	name = "José Ramón Rodil"
 	date = 1824.1.1
 	type = land
-	personality = merciless
-	background = adventurer
+	personality = attack_2.1
+	background = attack_2.1
 	prestige = 0.1
 }
 

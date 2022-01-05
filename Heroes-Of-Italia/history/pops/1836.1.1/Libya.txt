@@ -605,31 +605,31 @@
 	}
 
 	aristocrats = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 15
 	}
 
 	clergymen = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 900
 	}
@@ -667,31 +667,31 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 15
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 900
 	}
@@ -699,31 +699,31 @@
 #Matan al Sarah (4000/1000 POPS)
 2585 = {
 	aristocrats = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 15
 	}
 
 	clergymen = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size = 900
 	}
@@ -775,31 +775,31 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 1875
 	}
@@ -843,31 +843,31 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 1875
 	}
@@ -911,31 +911,31 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 900
 	}
@@ -979,31 +979,31 @@
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 15
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african_minor
 		religion = sunni
 		size = 900
 	}

@@ -2,8 +2,8 @@ leader = {
    name = "Tewoderos Kasa"
    type = land
    date = 1836.1.1
-   background = school_of_offense
-   personality = bold 
+   background = attack_2.1
+   personality = attack_2.1 
 }
 
 army = {

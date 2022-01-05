@@ -2,8 +2,8 @@ leader = {
 	name = "Mehreb Khan"
 	date = 1836.1.1
 	type = land
-	personality = clever
-	background = poet
+	personality = attack_1.1
+	background = attack_minus_1.199
 }
 
 army = {

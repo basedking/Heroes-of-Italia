@@ -1,5 +1,5 @@
-owner = LOU
-controller = LOU
-add_core = LOU
+owner = HIS
+controller = HIS
+add_core = HIS
 trade_goods = cotton
 life_rating = 35

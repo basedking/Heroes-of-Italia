@@ -1,7 +1,7 @@
-name = "Ottoman Restoration of Tripoli"
+name = "Egyptian Restoration of Tripoli"
 
 1835.10.2 = {
-	add_attacker = TUR
+	add_attacker = EGY
 	add_defender = TRI
 	
 	# actor
@@ -15,9 +15,4 @@ name = "Ottoman Restoration of Tripoli"
 		receiver = TRI
 	}
 
-}
-
-1836.6.6 = {
-	rem_attacker = TUR
-	rem_defender = TRI
 }

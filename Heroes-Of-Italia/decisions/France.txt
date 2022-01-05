@@ -117,71 +117,6 @@ political_decisions = {
 			set_country_flag = palais_garnier_built
 		}
 	}
-	
-	the_lambert_charter = {
-		potential = {
-			NOT = {
-				has_country_flag = lambert_has_been_chartered
-			}
-			tag = FRA
-			exists = MAD
-		}
-		
-		allow = {
-			is_greater_power = yes
-			ideological_thought = 1
-			MAD = {
-				civilized = no
-				OR = {
-					in_sphere = FRA
-					NOT = { part_of_sphere = yes }
-				}
-			}
-		}
-		
-		effect = {
-			diplomatic_influence = {
-				who = MAD
-				value = 150
-			}
-			set_country_flag = lambert_has_been_chartered
-		}
-	}
-	
-	end_the_merina_monarchy = {
-		potential = {
-			OR = {
-				has_country_flag = lambert_has_been_chartered
-				MAD = {
-					in_sphere = FRA
-					civilized = no
-			}
-				}
-			NOT = {
-				has_country_flag = merina_monarchy_is_over
-			}
-			exists = MAD
-			MAD = {AI = yes}
-			tag = FRA
-		}
-		
-		allow = {
-			MAD = {
-				in_sphere = FRA
-				civilized = no
-				war = no
-			}
-			invention = mission_to_civilize
-			invention = expansionism
-			war = no
-		}
-		
-		effect = {
-			inherit = MAD
-			set_country_flag = merina_monarchy_is_over
-		}
-	}
-	
 	brazzas_expedition = {
 		potential = {
 			tag = FRA
@@ -203,57 +138,6 @@ political_decisions = {
 			set_global_flag = brazzaville_formed
 		}
 	}
-	
-	the_rhine_crisis = {
-		potential = {
-			tag = FRA
-			exists = PRU
-			PRU = {
-				owns = 572
-				owns = 575
-			}
-			NOT = {
-				has_country_flag = crisis_on_the_rhine
-			}
-		}
-		
-		allow = {
-			ideological_thought = 1
-		}
-		
-		effect = {
-			any_country = {
-				limit = {
-					OR = {
-						primary_culture = north_german
-						primary_culture = south_german
-					}
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-			}
-			casus_belli = {
-				target = PRU
-				type = acquire_state
-				months = 1
-			}
-			prestige = 10
-			badboy = 4
-			set_country_flag = crisis_on_the_rhine
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					badboy = 0.5
-				}
-			}
-		}
-	}
-	
 	build_the_eiffel_tower = {
 		potential = {
 			tag = FRA

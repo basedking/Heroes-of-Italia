@@ -1942,13 +1942,9 @@ war_reparations = {
 		war_with = THIS
 		NOT = {
 			is_our_vassal = THIS
-			has_country_modifier = neutrality
-			has_country_modifier = no_more_war
-			has_country_flag = in_great_war
 		}
 		THIS = {
 			civilized = yes
-			NOT = { has_country_modifier = neutrality }
 		}
 	}
 	

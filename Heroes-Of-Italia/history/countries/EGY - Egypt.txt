@@ -6,6 +6,7 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.07
 non_state_culture_literacy = 0.05
+civilized = yes
 
 ruling_party = EGY_conservative
 upper_house = {
@@ -18,13 +19,22 @@ upper_house = {
 	communist = 0
 }
 
-foreign_training = yes_foreign_training
-foreign_weapons = yes_foreign_weapons
-land_reform = yes_land_reform
 
-# Technology
+# Technologies
+post_napoleonic_thought = 1
 flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
 post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
 
 # Starting Consciousness
 consciousness = 0
@@ -49,22 +59,3 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-1861.1.1 = {
-	oob = "/1861/EGY_oob.txt"
-	prestige = 5
-	literacy = 0.10
-	non_state_culture_literacy = 0.05
-
-	#Economic Reforms
-	land_reform = yes_land_reform
-	finance_reform = yes_finance_reform
-	finance_reform = finance_reform_two #International Debt
-
-	#Military Reforms
-	foreign_training = yes_foreign_training
-	foreign_weapons = yes_foreign_weapons
-
-	#Technology
-	private_banks = 1
-
-}

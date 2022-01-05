@@ -1,7 +1,7 @@
 name = "Heroes of Italia"
 path = "mod/Heroes-of-Italia"
 user_dir = "Heroes of Italia"
-replace_path = "gfx/flags"
 replace_path = "common"
 replace_path = "decisions"
 replace_path = "events"
+replace_path = "localisation"

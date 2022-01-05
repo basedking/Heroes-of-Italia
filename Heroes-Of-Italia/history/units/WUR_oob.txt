@@ -21,7 +21,7 @@ leader = {
 	date = 1812.1.1
 	type = land
 	personality = able
-	background = aristocrat
+	background = attack_1.89
 	prestige = 0.5
 }
 
@@ -29,7 +29,7 @@ leader = {
 	name = "Prince Friedrich"
 	date = 1829.1.1
 	type = land
-	personality = mediocre
+	personality = attack_minus_1.1
 	background = politician
 	prestige = 0.1
 }

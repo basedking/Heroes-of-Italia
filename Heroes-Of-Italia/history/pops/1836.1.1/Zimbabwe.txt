@@ -3,61 +3,61 @@
 #Harare (68000/17000 POPS) 
 2068 = {
 	aristocrats = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 13675
 	}
 
 	aristocrats = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 1800
 	}
@@ -65,7 +65,7 @@
 #Gweru (96000/24000 POPS) 
 2069 = {
 	aristocrats = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 450
 	}
@@ -77,7 +77,7 @@
 	}
 
 	clergymen = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 250
 	}
@@ -89,7 +89,7 @@
 	}
 
 	artisans = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 1200
 	}
@@ -101,7 +101,7 @@
 	}
 
 	soldiers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 250
 	}
@@ -113,7 +113,7 @@
 	}
 
 	farmers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 21850
 	}
@@ -127,31 +127,31 @@
 #Mutare (96000/24000 POPS) 
 2070 = {
 	aristocrats = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 20025
 	}
@@ -219,61 +219,61 @@
 	}
 
 	aristocrats = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = sena
+		culture = african_minor
 		religion = animist
 		size = 900
 	}
@@ -283,91 +283,91 @@
 #Bulawayo (68000/17000 POPS) 
 2071 = {
 	aristocrats = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 5
 	}
 
 	officers = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 10825
 	}
 
 	aristocrats = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 2700
 	}
 
 	artisans = {
-		culture = sotho
+		culture = african_minor
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = sotho
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = sotho
+		culture = african_minor
 		religion = animist
 		size = 1825
 	}
@@ -375,31 +375,31 @@
 #Hwange (48000/64000 POPS) 
 2072 = {
 	aristocrats = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 5475
 	}
@@ -435,31 +435,31 @@
 	}
 
 	aristocrats = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size = 900
 	}
@@ -467,31 +467,31 @@
 #Masvingo (72000/18000 POPS) 
 2073 = {
 	aristocrats = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size = 1800
 	}

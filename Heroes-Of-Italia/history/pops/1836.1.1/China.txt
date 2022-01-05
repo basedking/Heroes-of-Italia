@@ -839,31 +839,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 600
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 300
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1550
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 325
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 28225
 	}
@@ -931,31 +931,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 250
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 150
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 700
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 150
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 12750
 	}
@@ -1711,43 +1711,43 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 9500
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 4800
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 10000
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 10000
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 4000
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 4800
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 434900
 	}
@@ -1955,31 +1955,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 3350
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1700
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 8450
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1700
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 153800
 	}
@@ -2047,31 +2047,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1300
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 675
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 3350
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 675
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 60975
 	}
@@ -5923,43 +5923,43 @@
 #Guihua Tumed (436000/109000 POPS)
 1532 = {
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 2000
 	}
 
 	bureaucrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 225
 	}
 
 	officers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 225
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1050
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 4200
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1050
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 95250
 	}
@@ -6003,31 +6003,31 @@
 #Jirim Chuulghan (152000/38000 POPS)
 1533 = {
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 650
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 325
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1375
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1100
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 30650
 	}
@@ -6083,31 +6083,31 @@
 #Ulaan Chab Chuulghan (132000/33000 POPS)
 1534 = {
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 650
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 325
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1650
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1100
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 29375
 	}
@@ -6115,31 +6115,31 @@
 #Yeke Juu Chuulghan (456000/114000 POPS)
 1535 = {
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 2225
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1125
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 5600
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 1125
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 101925
 	}
@@ -8227,31 +8227,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 350
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 175
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 900
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 175
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 16400
 	}
@@ -8337,31 +8337,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 20
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 20
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 50
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 10
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 900
 	}
@@ -8459,31 +8459,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 925
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 475
 	}
 
 	artisans = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 2350
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 475
 	}
 
 	farmers = {
-		culture = mongol
+		culture = african_minorl
 		religion = gelugpa
 		size = 42775
 	}

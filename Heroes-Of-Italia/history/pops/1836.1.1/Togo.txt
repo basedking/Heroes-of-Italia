@@ -3,31 +3,31 @@
 #Lome (216000/54000 POPS)  
 1914 = {
 	aristocrats = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 775
 	}
 
 	clergymen = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 1575
 	}
 
 	soldiers = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 400
 	}
 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 30850
 	}
@@ -71,31 +71,31 @@
 #Atakpane (128000/32000 POPS)  
 1917 = {
 	aristocrats = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size = 12750
 	}
@@ -131,37 +131,37 @@
 	}
 
 	aristocrats = {
-		culture = fon
+		culture = african_minor
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = fon
+		culture = african_minor
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = fon
+		culture = african_minor
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = fon
+		culture = african_minor
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = fon
+		culture = african_minor
 		religion = animist
 		size = 8125
 	}
 
 	slaves = {
-		culture = fon
+		culture = african_minor
 		religion = animist
 		size = 2000
 	}

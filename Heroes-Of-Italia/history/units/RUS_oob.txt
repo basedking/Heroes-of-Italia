@@ -56,10 +56,6 @@ SPA = {
 	value = 0
 }
 
-USA = {
-	value = 0
-}
-
 PER = {
 	value = 125
 	level = 4
@@ -75,8 +71,8 @@ leader = {
 	name = "Prince Vasilchikov"
 	date = 1801.1.1
 	type = land
-	personality = competent
-	background = powerful_friends
+	personality = attack_1.1
+	background = attack_minus_2.1
 	prestige = 0.4
 }
 
@@ -84,8 +80,8 @@ leader = {
 	name = "Prince Mikhail Vorontsov"
 	date = 1814.1.1
 	type = land
-	personality = daring
-	background = gifted_administrator
+	personality = attack_2.1
+	background = attack_2.1
 	prestige = 0.3
 }
 
@@ -93,8 +89,8 @@ leader = {
 	name = "Pyotr Chicherin"
 	date = 1835.1.1
 	type = land
-	personality = earnest
-	background = cavalry_school
+	personality = attack_1.1
+	background = attack_1.1
 	prestige = 0.1
 }
 
@@ -102,8 +98,8 @@ leader = {
 	name = "Alexander Chernyshev"
 	date = 1821.1.1
 	type = land
-	personality = intelligent
-	background = diplomat
+	personality = attack_1.1
+	background = defence_1.2
 	prestige = 0.1
 }
 
@@ -111,8 +107,8 @@ leader = {
 	name = "Prince Menshikov"
 	date = 1833.1.1
 	type = sea
-	personality = lackluster
-	background = clueless
+	personality = attack_minus_1.1
+	background = attack_minus_1.1
 	prestige = 0.1
 }
 
@@ -120,8 +116,8 @@ leader = {
 	name = " Ivan Paskevich"
 	date = 1812.1.1
 	type = land
-	personality = merciless
-	background = school_of_offense
+	personality = attack_2.1
+	background = attack_2.1
 	prestige = 0.3
 }
 
@@ -129,8 +125,8 @@ leader = {
 	name = "Matvey Khrapovitsky"
 	date = 1835.1.1
 	type = land
-	personality = able
-	background = war_college
+	personality = attack_1.2
+	background = attack_1.193
 	prestige = 0.1
 }
 
@@ -138,8 +134,8 @@ leader = {
 	name = "Mikhail Lazarev"
 	date = 1827.1.1
 	type = sea
-	personality = au_fait
-	background = innovative_tactician
+	personality = attack_2.1
+	background = attack_1.1
 	prestige = 0.2
 }
 
@@ -147,8 +143,8 @@ leader = {
 	name = "Muraviev-Karsky"
 	date = 1832.1.1
 	type = land
-	personality = defiant
-	background = natural_born_leader
+	personality = defence_3.1
+	background = attack_1.1
 	prestige = 0.1
 }
 
@@ -156,8 +152,8 @@ leader = {
 	name = "Pyotr Volkonsky"
 	date = 1812.1.1
 	type = land
-	personality = intelligent
-	background = elderly
+	personality = attack_1.1
+	background = defence_1.123
 	prestige = 0.3
 }
 
@@ -165,8 +161,8 @@ leader = {
 	name = "Pavel Grabbe"
 	date = 1836.1.1
 	type = land
-	personality = keen
-	background = school_of_firepower
+	personality = attack_1.1
+	background = attack_1.1
 	prestige = 0.0
 }
 
@@ -174,8 +170,8 @@ leader = {
 	name = "Vasily Bebutov"
 	date = 1825.1.1
 	type = land
-	personality = stout
-	background = generals_aide
+	personality = defence_1.1
+	background = defence_1.1
 	prestige = 0.1
 }
 
@@ -183,8 +179,8 @@ leader = {
 	name = "Fedor von Berg"
 	date = 1836.1.1
 	type = land
-	personality = sharp
-	background = cartographer
+	personality = attack_1.1
+	background = defence_2.82
 	prestige = 0.1
 }
 
@@ -192,8 +188,8 @@ leader = {
 	name = "Ferdinand Wrangel"
 	date = 1836.1.1
 	type = sea
-	personality = active_p
-	background = cartographer
+	personality = attack_1.168
+	background = defence_2.82
 	prestige = 0.0
 }
 
@@ -661,7 +657,7 @@ army = {
 
 	regiment = {
 		name= "2.7-ya Pekhotnaya Diviziya"
-		type = engineer
+		type = personality = defence_1.2
 		home = 1021
 	}
 	

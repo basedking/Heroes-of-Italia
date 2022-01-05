@@ -21,31 +21,31 @@
 	}
 
 	aristocrats = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 675
 	}
 
 	clergymen = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 31975
 	}
@@ -114,31 +114,31 @@
 #Bo (352000/88000 POPS) 
 1886 = {
 	aristocrats = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 475
 	}
 
 	artisans = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 1875
 	}
 
 	soldiers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 36275
 	}
@@ -184,31 +184,31 @@
 #Falaba (384000/96000 POPS) #now part of Sierra Leone 
 1885 = {
 	aristocrats = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 925
 	}
 
 	clergymen = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 475
 	}
 
 	artisans = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 36225
 	}

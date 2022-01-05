@@ -1,6 +1,6 @@
 owner = BOL
 controller = BOL
 add_core = BOL
-add_core = BRZ add_core = POR
+add_core = UPB add_core = BRZ add_core = UPB add_core = BRZ
 trade_goods = tropical_wood
 life_rating = 25

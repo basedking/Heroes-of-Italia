@@ -66,31 +66,31 @@
 #Gabu (76000/19000 POPS)
 1878 = {
 	aristocrats = {
-		culture = mande
+		culture = african_minor
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = mande
+		culture = african_minor
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = mande
+		culture = african_minor
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = mande
+		culture = african_minor
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = mande
+		culture = african_minor
 		religion = animist
 		size = 14400
 	}

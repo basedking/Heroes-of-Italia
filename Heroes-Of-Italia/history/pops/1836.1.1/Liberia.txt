@@ -39,85 +39,85 @@
 	}
 
 	clergymen = {
-		culture = kru
+		culture = african_minor
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = kru
+		culture = african_minor
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = kru
+		culture = african_minor
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = kru
+		culture = african_minor
 		religion = protestant
 		size = 2775
 	}
 
 	aristocrats = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 875
 	}
 
 	clergymen = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 2350
 	}
 
 	soldiers = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 450
 	}
 
 	farmers = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 40875
 	}
 
 	aristocrats = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 450
 	}
 
 	soldiers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 8225
 	}
@@ -155,31 +155,31 @@
 #Harper (204000/51000 POPS) 
 1888 = {
 	aristocrats = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 1900
 	}
 
 	soldiers = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 375
 	}
 
 	farmers = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 34600
 	}
@@ -218,31 +218,31 @@
 #Bopulu (124000/31000 POPS) 
 1889 = {
 	aristocrats = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 475
 	}
 
 	clergymen = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 1250
 	}
 
 	soldiers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 22775
 	}
@@ -280,31 +280,31 @@
 #Gbarnga (132000/33000 POPS) 
 1890 = {
 	aristocrats = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size = 10025
 	}
@@ -342,31 +342,31 @@
 #Zwedru (168000/42000 POPS) 
 1891 = {
 	aristocrats = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 1150
 	}
 
 	soldiers = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size = 20975
 	}
