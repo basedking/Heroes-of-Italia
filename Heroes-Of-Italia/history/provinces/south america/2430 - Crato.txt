@@ -1,5 +1,5 @@
 owner = UPB
 controller = UPB
-add_core = UPB add_core = BRZ add_core = UPB add_core = BRZ
+add_core = UPB add_core = BRZ
 trade_goods = cotton
 life_rating = 35

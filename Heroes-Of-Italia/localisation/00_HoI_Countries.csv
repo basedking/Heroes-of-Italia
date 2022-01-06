@@ -11,10 +11,11 @@ RHE_socialist_3;Sozial. Arbeiterpartei ;Sozial. Arbeiterpartei ;Sozial. Arbeiter
 RHE_reactionary;Nationale Partei;Nationale Partei;Nationale Partei;;;;;;;x
 RHE_conservative_2;Konservative Partei;Konservative Partei;Konservative Partei;;;;;;;x
 RHE_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;;;;;;;x
-RHE_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;x
+RHE_anarcho_liberal;anarcho_liberal Arbeiterpartei;Arbeiterpartei anarcho_liberal;Radikale Arbeiterpartei;;;;;;;x
 RHE_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;x
 RHE_fascist;NSDP;NSDP;NSDP;;;;;;;x
 OCC;Occitania;Occitania;Occitania;;;;;;;x
+OCC_ADJ:Occitan;;;;;;;x
 OCC_proletarian_dictatorship;Occitania;Occitania;Occitania;;;;;;;x
 OCC_presidential_dictatorship;Occitania;Occitania;Occitania;;;;;;;x
 OCC_bourgeois_dictatorship;Occitania;Occitania;Occitania;;;;;;;x
@@ -29,7 +30,7 @@ OCC_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 OCC_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 OCC_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 OCC_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-OCC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+OCC_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 OCC_communist_86;Communists;Communists;Communists;;;;;;;x
 OCC_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
 NRM_ADJ;Norman;Norman;Norman;;;;;;;x
@@ -48,7 +49,7 @@ NRM_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 NRM_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 NRM_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 NRM_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-NRM_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+NRM_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 NRM_communist_86;Communists;Communists;Communists;;;;;;;x
 NRM_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
 LOR_ADJ;Loiringian;Loiringian;Loiringian;;;;;;;x
@@ -67,7 +68,7 @@ LOR_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 LOR_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 LOR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 LOR_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-LOR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+LOR_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 LOR_communist_86;Communists;Communists;Communists;;;;;;;x
 LOR_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
 BRT_ADJ;Breton;Breton;Breton;;;;;;;x
@@ -86,7 +87,7 @@ BRT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 BRT_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 BRT_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 BRT_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-BRT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+BRT_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 BRT_communist_86;Communists;Communists;Communists;;;;;;;x
 BRT_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
 BRG_ADJ;Burgundian;Burgundian;Burgundian;;;;;;;x
@@ -105,7 +106,7 @@ BRG_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 BRG_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 BRG_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 BRG_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-BRG_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+BRG_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 BRG_communist_86;Communists;Communists;Communists;;;;;;;x
 BRG_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
 AQI_ADJ;Aquitanian;Aquitanian;Aquitanian;;;;;;;x
@@ -124,7 +125,7 @@ AQI_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 AQI_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 AQI_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 AQI_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-AQI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+AQI_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 AQI_communist_86;Communists;Communists;Communists;;;;;;;x
 AQI_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
 RHI_ADJ;Rheinish;Rheinish;Rheinish;;;;;;;x
@@ -143,14 +144,14 @@ RHI_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 RHI_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 RHI_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 RHI_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-RHI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+RHI_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 RHI_communist_86;Communists;Communists;Communists;;;;;;;x
 RHI_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
 SIL_conservative;Conservatives;Conservatives;Conservatives;;;;;;;x
 SIL_liberal;National Liberals;National Liberals;National Liberals;;;;;;;x
 SIL_socialist;Socialists;Socialists;Socialists;;;;;;;x
 SIL_reactionary;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-SIL_anarcho_liberal;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+SIL_anarcho_liberal;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 SIL_communist;Communists;Communists;Communists;;;;;;;x
 SIL_fascist;Fascists;Fascists;Fascists;;;;;;;x
 MUG_absolute_monarchy;The Mughal Empire;;;;;;;x
@@ -160,7 +161,7 @@ MUG_proletarian_dictatorship;People's Republic of Mughalistan;;;;;;;x
 MUG_conservative;Mir Saman;;;;;;;;;;;;;;;;;;;x;;;
 MUG_liberal;Hanafi;;;;;;;;;;;;;;;;;x;;;
 MUG_reactionary;Mir Bakshi;;;;;;;;;;;;;;;;;;;x;;;
-MUG_anarcho_liberal;The Radical Party;;;;;;;;;;;;;;;;;;;x;;;
+MUG_anarcho_liberal;The anarcho_liberal Party;;;;;;;;;;;;;;;;;;;x;;;
 MUG_socialist;The Socialist Party;;;;;;;;;;;;;;;;;;;x;;;
 MUG_communist;The Communist Party;;;;;;;;;;;;;;;;;x;;;
 MUG_fascist;The Fascist Party;;;;;;;;;;;;;;;;;x;;;
@@ -172,7 +173,7 @@ SYR_liberal;Hizb al-Islah al-Suriy;;;;;;;x
 SYR_conservative;Jam’iyat al-Arabiya al-Fatat;;;;;;;x
 SYR_socialist;Haraka al-Ishtirakiyyun al-Arab;;;;;;;x
 SYR_reactionary;Haraka al-Ahd al-Watani;;;;;;;x
-SYR_radical;Hizb al-Wataniyyin al-Ahrar;;;;;;;x
+SYR_anarcho_liberal;Hizb al-Wataniyyin al-Ahrar;;;;;;;x
 SYR_communist;Al-hizb ash-Shuyu'i as-Suri;;;;;;;x
 SYR_fascist;Al-Hizb Al-Suri Al-Qawmi Al-'Ijtima'i;;;;;;;x
 KDS;Kurdistan;;;;;;;x
@@ -184,7 +185,7 @@ KDS_liberal_2;Hêvî;;;;;;;x
 KDS_liberal_3;Yeketî Nistîman;;;;;;;x
 KDS_reactionary;Meclis-i Mesayih;;;;;;;x
 KDS_reactionary_2;Bizutnawai Islami;;;;;;;x
-KDS_radical;Terakkipeweran;;;;;;;x
+KDS_anarcho_liberal;Terakkipeweran;;;;;;;x
 KDS_socialist;Partiya Karkerên;;;;;;;x
 KDS_socialist_2;Partiya Zahmatkesan;;;;;;;x
 KDS_fascist;Jiyanewe;;;;;;;x
@@ -217,6 +218,138 @@ UPB_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
 UPB_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
 UPB_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
 UPB_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-UPB_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
+UPB_anarcho_liberal_93;anarcho_liberal Liberals;anarcho_liberal Liberals;anarcho_liberal Liberals;;;;;;;x
 UPB_communist_86;Communists;Communists;Communists;;;;;;;x
 UPB_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
+NUE_conservative;King's Party;Faction royale;K?nigsfraktion;;Facci?n Real;;;;;;;;;x
+NUE_liberal;Liberty Front;Faction lib?rale;Die liberale Fraktion;;La Facci?n Liberal;;;;;;;;;x
+NUE_reactionary;Sons of Ireland;Faction nationaliste;Die nationalistische Fraktion;;La Facci?n Nacionalista;;;;;;;;;x
+NUE_anarcho_liberal;Freedom Comission;Faction anarcho_liberale;Die radikale Fraktion;;La Facci?n anarcho_liberal;;;;;;;;;x
+NUE_socialist;Equality Front;Faction socialiste;Die sozialistische Fraktion;;La Facci?n Socialista;;;;;;;;;x
+NUE_communist;Red Isle;Faction communiste;Die kommunistische Fraktion;;La Facci?n Comunista;;;;;;;;;x
+NUE_fascist;Irish Reunification Front;Faction fasciste;Die faschistische Fraktion;;La Facci?n Fascista;;;;;;;;;x
+RKL_liberal;Kapitalisty;Libert?Liberty;;Libertad;;;;;;;;;x;;;;
+RKL_anarcho_liberal;Radikaly;Libert?Liberty;;Libertad;;;;;;;;;x;;;;
+RKL_conservative;Konservatory;Libert?Liberty;;Libertad;;;;;;;;;x;;;;
+RKL_reactionary;Serebranyy Peredniy;Libert?Liberty;;Libertad;;;;;;;;;x;;;;
+RKL_socialist;Sotsialisty;Libert?Liberty;;Libertad;;;;;;;;;x;;;;
+RKL_communist;Krasnyye;Libert?Liberty;;Libertad;;;;;;;;;x;;;;
+RKL_fascist;Chernyye Barony;Libert?Liberty;;Libertad;;;;;;;;;x;;;;
+WCR_liberal;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;x;;;;
+WCR_conservative;Traditional Party;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+WCR_conservative_2;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+WCR_socialist;Social Party;Parti social;Social Party;;Partido Social;;;;;;;;;x;;;;
+WCR_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+WCR_anarcho_liberal;anarcho_liberal Party;Parti anarcho_liberal;anarcho_liberal Party;;Partido anarcho_liberal;;;;;;;;;x;;;;
+WCR_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+WCR_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+SHA_conservative;Imperial Faction;Faction impériale;Kaiserliche Fraktion;;Facción imperial;;;;;;;;;x;;;;
+SHA_liberal;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;x;;;;
+SHA_conservative;Traditional Party;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+SHA_conservative_2;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+SHA_socialist;Social Party;Parti social;Social Party;;Partido Social;;;;;;;;;x;;;;
+SHA_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+SHA_anarcho_liberal;anarcho_liberal Party;Parti anarcho_liberal;anarcho_liberal Party;;Partido anarcho_liberal;;;;;;;;;x;;;;
+SHA_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+SHA_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+INU_conservative;Imperial Faction;Faction impériale;Kaiserliche Fraktion;;Facción imperial;;;;;;;;;x;;;;
+INU_liberal;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;x;;;;
+INU_conservative;Traditional Party;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+INU_conservative_2;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+INU_socialist;Social Party;Parti social;Social Party;;Partido Social;;;;;;;;;x;;;;
+INU_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+INU_anarcho_liberal;anarcho_liberal Party;Parti anarcho_liberal;anarcho_liberal Party;;Partido anarcho_liberal;;;;;;;;;x;;;;
+INU_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+INU_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+RED_conservative;Soutie Party Party;Voortrekker Partei;Voortrekker Partei;;Voortrekker Partei;;;;;;;;;x;;;;
+RED_conservative_2;Engle Party;Boeren Partei;Boeren Partei;;Boeren Partei;;;;;;;;;x;;;;
+RED_liberal;Liberty Front;Parti libéral;Die liberale Partei;;El Partido Liberal;;;;;;;;;x;;;;
+RED_reactionary;Revanchist Front;Partei nationaliste;Die nationalistische Partei;;The Nationalist Partei;;;;;;;;;x;;;;
+RED_anarcho_liberal;Peace and Unity Party;Parti anarcho_liberal;Die radikale Partei;;El Partido anarcho_liberal;;;;;;;;;x;;;;
+RED_socialist;Equality Front;Parti socialiste;Die sozialistische Partei;;El Partido Socialista;;;;;;;;;x;;;;
+RED_communist;The Reds;Parti communiste;Die kommunistische Partei;;El Partido Comunista;;;;;;;;;x;;;;
+RED_fascist;Sons of England;Parti fasciste;Die faschistische Partei;;El Partido Fascista;;;;;;;;;x;;;;
+HIS_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;Partido Conservador;;;;;;;;;x;;;;
+HIS_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;;x;;;;
+HIS_anarcho_liberal;Partido Federalista;Partido Federalista;Partido Federalista;;Partido Federalista;;;;;;;;;x;;;;
+HIS_reactionary;Restaurazionisti;Ristorazionista;Ristorazionista;;Ristorazionista;;;;;;;;;x;;;;
+HIS_conservative_2;Partido Moderado Liberal;Partido Moderado Liberal;Partido Moderado Liberal;;Partido Moderado Liberal;;;;;;;;;x;;;;
+HIS_liberal_2;Partido anarcho_liberal Liberal;Partido anarcho_liberal Liberal;Partido anarcho_liberal Liberal;;Partido anarcho_liberal Liberal;;;;;;;;;x;;;;
+HIS_reactionary;Partido Imperialista;Partido Imperialista;Partido Imperialista;;Partido Imperialista;;;;;;;;;x;;;;
+HIS_socialist;Partido Socialista;Partido socialiste;Partido Socialist;;Partido Socialista;;;;;;;;;x;;;;
+HIS_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;;x;;;;
+HIS_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;;x;;;;
+NBD_liberal;Le Maison;Le Maison;Le Maison;;Le Maison;;;;;;;;;x;;;;
+NBD_fascist;Le Frontiere;Le Maison;Le Maison;;Le Maison;;;;;;;;;x;;;;
+NBD_conservative;Parti du Comte d'Erlon;Le Maison;Le Maison;;Le Maison;;;;;;;;;x;;;;
+NBD_reactionary;Les Soldats;Le Maison;Le Maison;;Le Maison;;;;;;;;;x;;;;
+LOU_reactionary;Les Royaumes;Les Royaumes;Les Royaumes;;Les Royaumes;;;;;;;;;x;;;;
+LOU_liberal;Orléaniste;Orléaniste;Orléaniste;;Orléaniste;;;;;;;;;x;;;;
+LOU_conservative;Républicain modér?Républicain modér?Républicain modér?;Républicain modér?;;;;;;;;x;;;;
+LOU_socialist;Républicain démocratique;Républicain démocratique;Républicain démocratique;;Républicain démocratique;;;;;;;;;x;;;;
+LOU_conservative_2;Parti de Nouveau-Monde;Républicain;Républicain;;Républicain;;;;;;;;;x;;;;
+LOU_anarcho_liberal;Républicain anarcho_liberal;Républicain anarcho_liberal;Républicain anarcho_liberal;;Républicain anarcho_liberal;;;;;;;;;x;;;;
+LOU_communist;Parti Ouvrier Louisiannais;Parti communiste français;Parti Ouvrier Français;;Parti Ouvrier Français;;;;;;;;;x;;;;
+LOU_fascist;Revanchiste;Revanchiste;Faschisten;;Fascistas;;;;;;;;;x;;;;
+WCR;Cree;Cree;Cree;;Cree;;;;;;;;;x;;;;
+SHA;Shawnee;Shawnee;Shawnee;;Shawnee;;;;;;;;;x;;;;
+INU;Inuit Union;Inuit Union;Inuit Union;;Inuit Union;;;;;;;;;x;;;;
+SHO;Shoshone;Shoshone;Shoshone;;Shoshone;;;;;;;;;x;;;;
+PAW;Pawnee;Pawnee;Pawnee;;Pawnee;;;;;;;;;x;;;;
+MIA;Miami;Miami;Miami;;Miami;;;;;;;;;x;;;;
+LOU_ADJ;Louisianan;Louisianais;Louisianan;;Louisianan;;;;;;;;;x;;;;
+NUE_ADJ;New Irish;Nouveau Irlandais;Neue Irisch;;Nueva Irlandes;;;;;;;;;x;;;;
+RKL_ADJ;Russian-Californian;Californien;Kalifornisch;;Calaforiana;;;;;;;;;x;;;;
+HIS_ADJ;Hispanic;Hispanic;Hispanic;;Hispanic;;;;;;;;;x;;;;
+WCR_ADJ;Cree;Cree;Cree;;Cree;;;;;;;;;x;;;;
+SHA_ADJ;Shawnee;Shawnee;Shawnee;;Shawnee;;;;;;;;;x;;;;
+INU_ADJ;Inuit;Inuit;Inuit;;Inuit;;;;;;;;;x;;;;
+SHO_ADJ;Shoshone;Cherokee;Cherokee;;Cherokee;;;;;;;;;x;;;;
+PAW_ADJ;Pawnee;Cherokee;Cherokee;;Cherokee;;;;;;;;;x;;;;
+MIA_ADJ;Miami;Cherokee;Cherokee;;Cherokee;;;;;;;;;x;;;;
+SIL_ADJ;Silesian;Silesian;Silesian;;Silesian;;;;;;;;;x;;;;
+NBD_ADJ;Bordeaux;Bordeaux;Bordeaux;;Bordeaux;;;;;;;;;x;;;;
+RED_ADJ;Reddan;Rougeon;Rotter;;Rojas;;;;;;;;;x;;;;
+SHO_liberal;Big Pipe Clan;Sociét?Keetoowah;Keetoowah Society;;Sociedad de Keetoowah ;;;;;;;;;x;;;;
+SHO_conservative;Redskins;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+PAW_liberal;Warrior Caste;Sociét?Keetoowah;Keetoowah Society;;Sociedad de Keetoowah ;;;;;;;;;x;;;;
+PAW_conservative;Ferocious Cow;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+MIA_liberal;Sitting Crab Clan;Sociét?Keetoowah;Keetoowah Society;;Sociedad de Keetoowah ;;;;;;;;;x;;;;
+MIA_conservative;Smoke Culture;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+CHE_conservative_2;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+CHE_socialist;Social Party;Parti social;Social Party;;Partido Social;;;;;;;;;x;;;;
+CHE_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+CHE_anarcho_liberal;anarcho_liberal Party;Parti anarcho_liberal;anarcho_liberal Party;;Partido anarcho_liberal;;;;;;;;;x;;;;
+CHE_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+CHE_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+CHI_conservative;Imperial Faction;Faction impériale;Kaiserliche Fraktion;;Facción imperial;;;;;;;;;x;;;;
+WCR_liberal;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;x;;;;
+WCR_conservative;Traditional Party;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+WCR_conservative_2;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+WCR_socialist;Social Party;Parti social;Social Party;;Partido Social;;;;;;;;;x;;;;
+WCR_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+WCR_anarcho_liberal;anarcho_liberal Party;Parti anarcho_liberal;anarcho_liberal Party;;Partido anarcho_liberal;;;;;;;;;x;;;;
+WCR_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+WCR_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+SHA_conservative;Imperial Faction;Faction impériale;Kaiserliche Fraktion;;Facción imperial;;;;;;;;;x;;;;
+SHA_liberal;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;x;;;;
+SHA_conservative;Traditional Party;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+SHA_conservative_2;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+SHA_socialist;Social Party;Parti social;Social Party;;Partido Social;;;;;;;;;x;;;;
+SHA_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+SHA_anarcho_liberal;anarcho_liberal Party;Parti anarcho_liberal;anarcho_liberal Party;;Partido anarcho_liberal;;;;;;;;;x;;;;
+SHA_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+SHA_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+INU_conservative;Imperial Faction;Faction impériale;Kaiserliche Fraktion;;Facción imperial;;;;;;;;;x;;;;
+INU_liberal;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;x;;;;
+INU_conservative;Traditional Party;Parti traditionnel;Traditional Party;;Partido Tradicional;;;;;;;;;x;;;;
+INU_conservative_2;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x;;;;
+INU_socialist;Social Party;Parti social;Social Party;;Partido Social;;;;;;;;;x;;;;
+INU_reactionary;Nationalist Party;Parti nationaliste;Nationalist Party;;Partido Nacionalista;;;;;;;;;x;;;;
+INU_anarcho_liberal;anarcho_liberal Party;Parti anarcho_liberal;anarcho_liberal Party;;Partido anarcho_liberal;;;;;;;;;x;;;;
+INU_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+INU_fascist;Fascist Party;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+RED;Red Republic;Republic Rouge;Rot Republik;;Rojas Republica;;;;;;;;;x;;;;
+WES;Westphalia;Westphalie;Westfalen;;Westphalia;;;;;;;;;x;;;;
+SIL;Silesia;Silesia;Schliesen;;Silesia;;;;;;;;;x;;;;
+NBD;New Bordeaux;Nouveau Bordeaux;Neue Bordische;;Nueve Bordeau;;;;;;;;;x;;;;
