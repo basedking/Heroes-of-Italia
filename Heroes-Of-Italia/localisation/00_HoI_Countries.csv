@@ -15,7 +15,7 @@ RHE_anarcho_liberal;anarcho_liberal Arbeiterpartei;Arbeiterpartei anarcho_libera
 RHE_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;x
 RHE_fascist;NSDP;NSDP;NSDP;;;;;;;x
 OCC;Occitania;Occitania;Occitania;;;;;;;x
-OCC_ADJ:Occitan;;;;;;;x
+OCC_ADJ;Occitan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 OCC_proletarian_dictatorship;Occitania;Occitania;Occitania;;;;;;;x
 OCC_presidential_dictatorship;Occitania;Occitania;Occitania;;;;;;;x
 OCC_bourgeois_dictatorship;Occitania;Occitania;Occitania;;;;;;;x
@@ -353,3 +353,8 @@ RED;Red Republic;Republic Rouge;Rot Republik;;Rojas Republica;;;;;;;;;x;;;;
 WES;Westphalia;Westphalie;Westfalen;;Westphalia;;;;;;;;;x;;;;
 SIL;Silesia;Silesia;Schliesen;;Silesia;;;;;;;;;x;;;;
 NBD;New Bordeaux;Nouveau Bordeaux;Neue Bordische;;Nueve Bordeau;;;;;;;;;x;;;;
+LOU;Louisiana;Louisiana;Louisiana;;Louisiana;;;;;;;;;x;;;;
+HIS;Nueva Hispania;Nueva Hispania;Neue Hispania;;Nueve Hispania;;;;;;;;;x;;;;
+louisianan;Louisianan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+occitan;Occitan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+indo_aryan;Indo Aryan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

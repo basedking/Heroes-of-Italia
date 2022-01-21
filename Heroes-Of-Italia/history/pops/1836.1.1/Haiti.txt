@@ -7,6 +7,12 @@
 		religion = catholic
 		size = 825
 	}
+	
+	artisans = {
+		culture = louisianan
+		religion = catholic
+		size = 2250
+	}
 
 	bureaucrats = {
 		culture = afro_antillean

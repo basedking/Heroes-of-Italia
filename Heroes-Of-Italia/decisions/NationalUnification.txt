@@ -73,6 +73,8 @@ political_decisions = {
 					OR = {
 						OR = {
 							state_id = 699
+							state_id = 574
+							state_id = 575
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
@@ -84,6 +86,7 @@ political_decisions = {
 					}
 				}
 			}
+			NET_577 = { owned_by = THIS } 
 		}
 		
 		effect = {
@@ -189,6 +192,8 @@ political_decisions = {
 				all_core = {
 					OR = {
 						state_id = 699
+						state_id = 574
+						state_id = 575
 						owned_by = THIS
 						owner = {
 							in_sphere = THIS
@@ -196,6 +201,7 @@ political_decisions = {
 					}
 				}
 			}
+			NET_577 = { owned_by = THIS } 			
 		}
 		
 		effect = {

@@ -1595,37 +1595,37 @@
 	aristocrats = {
 		culture = louisianan
 		religion = catholic
-		size = 100
+		size = 400
 	}
 
 	bureaucrats = {
 		culture = louisianan
 		religion = catholic
-		size = 10
+		size = 40
 	}
 
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 55
+		size = 220
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 250
+		size = 1000
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 4485
+		size = 17940
 	}
 
 	aristocrats = {
@@ -3031,43 +3031,43 @@
     aristocrats = {
         culture = louisianan
         religion = catholic
-        size = 112
+        size = 448
     }
 
     bureaucrats = {
         culture = louisianan
         religion = catholic
-        size = 62
+        size = 248
     }
 
     officers = {
         culture = louisianan
         religion = catholic
-        size = 12
+        size = 48
     }
 
     clergymen = {
         culture = louisianan
         religion = catholic
-        size = 89
+        size = 356
     }
 
     artisans = {
         culture = louisianan
         religion = catholic
-        size = 449
+        size = 1796
     }
 
     soldiers = {
         culture = louisianan
         religion = catholic
-        size = 348
+        size = 1392
     }
 
     farmers = {
         culture = louisianan
         religion = catholic
-        size = 10161
+        size = 40644
     }
 
     aristocrats = {
@@ -3385,43 +3385,43 @@
     aristocrats = {
         culture = louisianan
         religion = catholic
-        size = 136
+        size = 544
     }
 
     bureaucrats = {
         culture = louisianan
         religion = catholic
-        size = 68
+        size = 272
     }
 
     officers = {
         culture = louisianan
         religion = catholic
-        size = 13
+        size = 52
     }
 
     clergymen = {
         culture = louisianan
         religion = catholic
-        size = 108
+        size = 432
     }
 
     artisans = {
         culture = louisianan
         religion = catholic
-        size = 544
+        size = 2176
     }
 
     soldiers = {
         culture = louisianan
         religion = catholic
-        size = 724
+        size = 2896
     }
 
     farmers = {
         culture = louisianan
         religion = catholic
-        size = 12314
+        size = 49256
     }
 
     aristocrats = {
@@ -3557,43 +3557,43 @@
     aristocrats = {
         culture = louisianan
         religion = catholic
-        size = 454
+        size = 1816
     }
 
     bureaucrats = {
         culture = louisianan
         religion = catholic
-        size = 232
+        size = 928
     }
 
     officers = {
         culture = louisianan
         religion = catholic
-        size = 46
+        size = 184
     }
 
     clergymen = {
         culture = louisianan
         religion = catholic
-        size = 363
+        size = 1452
     }
 
     artisans = {
         culture = louisianan
         religion = catholic
-        size = 1819
+        size = 7276
     }
 
     soldiers = {
         culture = louisianan
         religion = catholic
-        size = 1409
+        size = 4227
     }
 
     farmers = {
         culture = louisianan
         religion = catholic
-        size = 41156
+        size = 164624
     }
 
     aristocrats = {
@@ -3849,43 +3849,43 @@
     aristocrats = {
         culture = louisianan
         religion = catholic
-        size = 44
+        size = 176
     }
 
     bureaucrats = {
         culture = louisianan
         religion = catholic
-        size = 28
+        size = 112
     }
 
     officers = {
         culture = louisianan
         religion = catholic
-        size = 5
+        size = 20
     }
 
     clergymen = {
         culture = louisianan
         religion = catholic
-        size = 35
+        size = 140
     }
 
     artisans = {
         culture = louisianan
         religion = catholic
-        size = 179
+        size = 716
     }
 
     soldiers = {
         culture = louisianan
         religion = catholic
-        size = 170
+        size = 680
     }
 
     farmers = {
         culture = louisianan
         religion = catholic
-        size = 4058
+        size = 16232
     }
 
     aristocrats = {
@@ -4050,25 +4050,25 @@
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 150
+		size = 600
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 1175
+		size = 4700
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 250
+		size = 1000
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 23650
+		size = 94600
 	}
 
 	clergymen = {
@@ -4092,61 +4092,61 @@
 	aristocrats = {
 		culture = louisianan
 		religion = catholic
-		size = 150
+		size = 600
 	}
 
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 100
+		size = 400
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 675
+		size = 2700
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 200
+		size = 800
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 15875
+		size = 63500
 	}
 
 	aristocrats = {
 		culture = louisianan
 		religion = catholic
-		size = 10
+		size = 40
 	}
 
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 15
+		size = 60
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 10
+		size = 40
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 915
+		size = 3660
 	}
 
 	clergymen = {
@@ -4178,33 +4178,7 @@
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = louisianan
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = louisianan
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = louisianan
-		religion = catholic
-		size = 4625
-	}
-}
-#Malden (40000/10000 POPS)
-148 = {
-	clergymen = {
-		culture = louisianan
-		religion = catholic
-		size = 25
+		size = 300
 	}
 
 	artisans = {
@@ -4216,43 +4190,69 @@
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 25
+		size = 200
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 1850
+		size = 18500
 	}
-
-	aristocrats = {
-		culture = louisianan
-		religion = catholic
-		size = 50
-	}
-
+}
+#Malden (40000/10000 POPS)
+148 = {
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 75
+		size = 400
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 300
+		size = 1600
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 75
+		size = 400
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 4500
+		size = 29600
+	}
+
+	aristocrats = {
+		culture = louisianan
+		religion = catholic
+		size = 80
+	}
+
+	clergymen = {
+		culture = louisianan
+		religion = catholic
+		size = 1200
+	}
+
+	artisans = {
+		culture = louisianan
+		religion = catholic
+		size = 4800
+	}
+
+	soldiers = {
+		culture = louisianan
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = louisianan
+		religion = catholic
+		size = 7200
 	}
 
 	clergymen = {
@@ -4284,79 +4284,79 @@
 	bureaucrats = {
 		culture = louisianan
 		religion = catholic
-		size = 150
+		size = 600
 	}
 
 	officers = {
 		culture = louisianan
 		religion = catholic
-		size = 45
+		size = 180
 	}
 
 	clergymen = {
-		culture = louisianan
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
 		culture = louisianan
 		religion = catholic
 		size = 300
 	}
 
+	artisans = {
+		culture = louisianan
+		religion = catholic
+		size = 1200
+	}
+
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 75
+		size = 300
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 5430
+		size = 21720
 	}
 
 	aristocrats = {
 		culture = louisianan
 		religion = catholic
-		size = 100
+		size = 400
 	}
 
 	bureaucrats = {
 		culture = louisianan
 		religion = catholic
-		size = 150
+		size = 600
 	}
 
 	officers = {
 		culture = louisianan
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 75
+		size = 300
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 200
+		size = 800
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 1075
+		size = 4300
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 4425
+		size = 17700
 	}
 
 	clergymen = {
@@ -4388,55 +4388,55 @@
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 400
+		size = 1600
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 75
+		size = 300
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 7475
+		size = 29900
 	}
 
 	aristocrats = {
 		culture = louisianan
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	clergymen = {
 		culture = louisianan
 		religion = catholic
-		size = 75
+		size = 300
 	}
 
 	artisans = {
 		culture = louisianan
 		religion = catholic
-		size = 225
+		size = 900
 	}
 
 	soldiers = {
 		culture = louisianan
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	farmers = {
 		culture = louisianan
 		religion = catholic
-		size = 4600
+		size = 18400
 	}
 
 	clergymen = {

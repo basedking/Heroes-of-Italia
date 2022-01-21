@@ -1,6 +1,7 @@
 capital = 2172
 primary_culture = mexican
 culture = caribeno
+culture = spanish
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

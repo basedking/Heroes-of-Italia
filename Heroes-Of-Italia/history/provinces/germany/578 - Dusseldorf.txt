@@ -1,6 +1,5 @@
 owner = WES
 controller = WES
-add_core = PRU
 add_core = GER
 add_core = WES
 trade_goods = coal

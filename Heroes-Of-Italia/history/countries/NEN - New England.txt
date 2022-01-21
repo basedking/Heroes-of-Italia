@@ -1,5 +1,5 @@
 capital = 233
-primary_culture = yankee
+primary_culture = anglo_canadian
 religion = protestant
 government = prussian_constitutionalism
 plurality = 0.5
