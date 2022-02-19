@@ -252,6 +252,42 @@ navy = {
 	name = "Koninklijke Marine"
 	location = 375 #Amsterdam
 	ship = {
+		name= "Zwolle"
+		type = manowar
+	}
+	ship = {
+		name= "Arnhem"
+		type = manowar
+	}
+	ship = {
+		name= "Emden"
+		type = manowar
+	}
+	ship = {
+		name= "Bruges"
+		type = manowar
+	}
+	ship = {
+		name= "Middelburg"
+		type = manowar
+	}
+	ship = {
+		name= "Rotterdam"
+		type = manowar
+	}
+	ship = {
+		name= "Utrecht"
+		type = manowar
+	}
+	ship = {
+		name= "Leeuwarden"
+		type = manowar
+	}
+	ship = {
+		name= "Groningen"
+		type = manowar
+	}
+	ship = {
 		name= "Doggersbank"
 		type = manowar
 	}
