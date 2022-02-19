@@ -1,5 +1,12 @@
 #Sphere of Influence
 
+GEO = {
+
+	value = 200
+	level = 5 	
+	influence_value = 40
+}
+
 SWE = {
 
 	value = 125

@@ -388,31 +388,31 @@
 #Sitten (72000/18000) POPS
 609 = {
 	aristocrats = {
-		culture = swiss
+		culture = north_italian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = north_italian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = swiss
+		culture = north_italian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = swiss
+		culture = north_italian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = swiss
+		culture = north_italian
 		religion = catholic
 		size = 15675
 	}

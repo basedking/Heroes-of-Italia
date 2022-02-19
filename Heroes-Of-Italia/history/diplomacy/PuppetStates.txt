@@ -1,3 +1,11 @@
+# United Kingdom-New England
+vassal = {
+	first = ENG
+	second = NEN
+	start_date = 1783.1.1
+	end_date = 1949.1.1
+}
+
 #China substates
 substate = {
 	first = CHI

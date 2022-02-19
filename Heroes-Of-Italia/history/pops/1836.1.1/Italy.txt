@@ -351,7 +351,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 275925
+		size = 265925
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
 	}
 
 	clergymen = {
@@ -944,10 +950,16 @@
 		size = 2000
 	}
 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 5000
+	}
+
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 104500
+		size = 99500
 	}
 }
 #under the rule of Modena in 1836
@@ -1137,10 +1149,16 @@
 		size = 650
 	}
 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 5000
+	}
+
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 54425
+		size = 49425
 	}
 }
 #Tuscany Region (1808000)
@@ -1433,7 +1451,13 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 230750
+		size = 225750
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 5000
 	}
 
 	clergymen = {
@@ -2045,10 +2069,16 @@
 		size = 2000
 	}
 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 5000
+	}
+
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 147575
+		size = 142575
 	}
 }
 #Messina (352000/88000 POPS)
