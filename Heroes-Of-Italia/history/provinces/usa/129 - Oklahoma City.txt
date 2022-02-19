@@ -3,9 +3,4 @@ life_rating = 35
 owner = LOU
 controller = LOU
 add_core = LOU
-1861.1.1 = {
-	owner = CSA
-	controller = CSA
-	add_core = CSA
-	add_core = CHE
-}
+colony = 2
