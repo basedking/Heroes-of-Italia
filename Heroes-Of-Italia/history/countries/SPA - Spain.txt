@@ -1,6 +1,5 @@
 capital = 487
 primary_culture = spanish
-culture = catalan
 culture = basque
 religion = catholic
 government = hms_government
@@ -11,7 +10,7 @@ civilized = yes
 
 
 #GreaterPowers = prestige
-prestige = 40
+prestige = 20 #was 40
 
 # Political reforms
 slavery = yes_slavery

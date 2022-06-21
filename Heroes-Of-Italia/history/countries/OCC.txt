@@ -5,8 +5,6 @@
 capital = 461
 primary_culture = occitan
 
-
-culture = french
 religion = catholic
 government = hms_government
 plurality = 10

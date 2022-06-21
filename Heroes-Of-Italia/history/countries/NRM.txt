@@ -5,8 +5,6 @@
 capital = 418
 primary_culture = french
 
-
-culture = occitan
 religion = catholic
 government = democracy
 plurality = 10

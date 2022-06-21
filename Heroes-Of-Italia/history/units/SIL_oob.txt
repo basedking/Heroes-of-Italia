@@ -1,0 +1,40 @@
+leader = {
+	name = "Fredrick August Charles"
+	date = 1829.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.123
+	prestige = 0.1
+}
+army = {	#i hate oobs,
+	name = "1st Army"	#these mfs actively work against you
+	location = 682
+	regiment = {
+		name= "1. Hussar"	
+		type = hussar
+		home = 685 #why are you getting assigned to breslau when i put you in katowitz
+	}
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 684
+	}
+
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 682
+	}
+	
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 684
+	}
+	
+	regiment = {
+		name= "4. Infantry"
+		type = infantry
+		home = 684
+	}
+}

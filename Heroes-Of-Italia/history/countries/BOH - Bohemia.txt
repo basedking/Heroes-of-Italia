@@ -63,9 +63,8 @@ mechanized_mining = 1
 basic_chemistry = 1
 practical_steam_engine = 1
 
-1861.1.1 = {
-	oob = "/1861/BOH_oob.txt"
-}
+oob = "BOH_oob.txt"
+
 1861.1.1 = {
 # Technologies
 

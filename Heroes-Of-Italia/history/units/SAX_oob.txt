@@ -6,7 +6,6 @@ leader = {
 	background = attack_1.123
 	prestige = 0.1
 }
-
 leader = {
 	name = "von Zezschwitz"
 	date = 1817.1.1
@@ -16,25 +15,67 @@ leader = {
 	prestige = 0.2
 }
 
+
 army = {
-	name = "Königlich Sächsische Armee"
+	name = "1st Army"
 	location = 558
 	regiment = {
-		name= "1. Infanteriebrigade"
-		type = infantry
+		name= "1. Hussar"
+		type = hussar
 		home = 558
 	}
 
 	regiment = {
-		name= "2. Infanteriebrigade"
-		type = infantry
+		name= "1. Artillery"
+		type = artillery
 		home = 559
 	}
 
 	regiment = {
-		name= "3. Infanteriebrigade"
-		type = infantry
+		name= "2. Artillery"
+		type = artillery
 		home = 560
 	}
 
+	regiment = {
+		name= "3. Artillery"
+		type = artillery
+		home = 561
+	}
+
+	regiment = {
+		name= "4. Artillery"
+		type = artillery
+		home = 561
+	}
+
+	regiment = {
+		name= "5. Artillery"
+		type = artillery
+		home = 562
+	}
+
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 537
+	}
+	
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 536
+	}
+	
+	regiment = {
+		name= "4. Infantry"
+		type = infantry
+		home = 555
+	}
 }

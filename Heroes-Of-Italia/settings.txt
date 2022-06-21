@@ -1,6 +1,8 @@
 
 graphics=
 {
+fullScreen=no
+borderless=yes
 shadows=no
 shadowSize=2048
 multi_sampling=0
