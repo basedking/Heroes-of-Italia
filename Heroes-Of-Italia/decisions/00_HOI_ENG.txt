@@ -1,0 +1,17 @@
+political_decisions = { 
+	NEN_more_trolling = { 
+		potential = { 
+			tag = ENG
+			is_our_vassal = NEN
+			NEN = { has_country_flag = NENNOMORETROLLING  } 
+		}
+		allow = { } 
+		effect = { 
+			NEN = { 
+				clr_country_flag = NENNOMORETROLLING
+				country_event = 600001 #England is letting us kill natives!
+			}
+			
+		}
+	}
+}

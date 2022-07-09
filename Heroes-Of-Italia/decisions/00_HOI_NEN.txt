@@ -1,0 +1,114 @@
+political_decisions = { 
+	annex_WCR = { 
+		potential = { 
+			tag = NEN
+			vassal_of = ENG
+			ai = no
+			WCR = { exists = yes neighbour = NEN } 
+			NOT = { has_country_flag = NENWCR } #if UK agrees, and NEN has the NENSHA country flag, then NEN gets a wargoal against the shawnee
+			NOT = { has_country_flag = NENWCRFINALISED } #happens if britain agrees. 
+			NOT = { has_country_flag = NENNOMORETROLLING } #set by UK - in case the NEN player tries to troll the UK by spamming this
+		}
+		allow = { state_n_government = 1 }
+		effect = { 
+			set_country_flag = NENWCR
+			WCR = { country_event = 599997 } 	#do we let NEN kill natives??? routed via a native so Britain gets to see the native in the description
+		}
+	}
+	annex_INU = { 
+		potential = { 
+			tag = NEN
+			vassal_of = ENG
+			ai = no
+			INU = { exists = yes neighbour = NEN } 
+			NOT = { has_country_flag = NENINU } #if UK agrees, and NEN has the NENSHA country flag, then NEN gets a wargoal against the shawnee
+			NOT = { has_country_flag = NENINUFINALISED } #happens if britain agrees 
+			NOT = { has_country_flag = NENNOMORETROLLING } #set by a UK decision - in case the NEN player tries to troll the UK by spamming this
+		}
+		allow = { state_n_government = 1 }
+		effect = { 
+			set_country_flag = NENINU
+			INU = { country_event = 599997 } 	#do we let NEN kill natives??? routed via a native so Britain gets to see the native in the description
+		}
+	}
+	annex_MIA = { 
+		potential = { 
+			tag = NEN
+			vassal_of = ENG
+			ai = no
+			MIA = { exists = yes neighbour = NEN } 
+			NOT = { has_country_flag = NENMIA } #if UK agrees, and NEN has the NENSHA country flag, then NEN gets a wargoal against the shawnee
+			NOT = { has_country_flag = NENMIAFINALISED } #happens if britain agrees 
+			NOT = { has_country_flag = NENNOMORETROLLING } #set by a UK decision - in case the NEN player tries to troll the UK by spamming this
+		}
+		allow = { state_n_government = 1 }
+		effect = { 
+			set_country_flag = NENMIA
+			MIA = { country_event = 599997 } 	#do we let NEN kill natives??? routed via a native so Britain gets to see the native in the description
+		}
+	}
+	annex_PAW = { 
+		potential = { 
+			tag = NEN
+			vassal_of = ENG
+			ai = no
+			PAW = { exists = yes neighbour = NEN } 
+			NOT = { has_country_flag = NENPAW } #if UK agrees, and NEN has the NENSHA country flag, then NEN gets a wargoal against the shawnee
+			NOT = { has_country_flag = NENSHAFINALISED } #happens if britain agrees 
+			NOT = { has_country_flag = NENNOMORETROLLING } #set by a UK decision - in case the NEN player tries to troll the UK by spamming this
+		}
+		allow = { state_n_government = 1 }
+		effect = { 
+			set_country_flag = NENPAW		#Set here so the NEN player doesnt see the decision while England still has his event
+			PAW = { country_event = 599997 } 	#do we let NEN kill natives??? routed via a native so Britain gets to see the native in the description
+		}
+	}
+	annex_MTC = { 
+		potential = { 
+			tag = NEN
+			vassal_of = ENG
+			ai = no
+			MTC = { exists = yes neighbour = NEN } 
+			NOT = { has_country_flag = NENMTC } #if UK agrees, and NEN has the NENSHA country flag, then NEN gets a wargoal against the shawnee
+			NOT = { has_country_flag = NENMTCFINALISED } #happens if britain agrees 
+			NOT = { has_country_flag = NENNOMORETROLLING } #set by a UK decision - in case the NEN player tries to troll the UK by spamming this
+		}
+		allow = { state_n_government = 1 }
+		effect = { 
+			set_country_flag = NENSHA
+			MTC = { country_event = 599997 } 	#do we let NEN kill natives??? routed via a native so Britain gets to see the native in the description
+		}
+	}
+	annex_SHO = { 
+		potential = { 
+			tag = NEN
+			vassal_of = ENG
+			ai = no
+			SHO = { exists = yes neighbour = NEN } 
+			NOT = { has_country_flag = NENSHO } #if UK agrees, and NEN has the NENSHA country flag, then NEN gets a wargoal against the shawnee
+			NOT = { has_country_flag = NENSHOFINALISED } #happens if britain agrees 
+			NOT = { has_country_flag = NENNOMORETROLLING } #set by a UK decision - in case the NEN player tries to troll the UK by spamming this
+		}
+		allow = { state_n_government = 1 }
+		effect = { 
+			set_country_flag = NENSHA
+			SHO = { country_event = 599997 } 	#do we let NEN kill natives??? routed via a native so Britain gets to see the native in the description
+		}
+	}
+	annex_SHA = { 
+		potential = { 
+			tag = NEN
+			vassal_of = ENG
+			ai = no
+			SHA = { exists = yes neighbour = NEN } 
+			NOT = { has_country_flag = NENSHA } #if UK agrees, and NEN has the NENSHA country flag, then NEN gets a wargoal against the shawnee
+			NOT = { has_country_flag = NENSHAFINALISED } #happens if britain agrees 
+			NOT = { has_country_flag = NENNOMORETROLLING } #set by a UK decision - in case the NEN player tries to troll the UK by spamming this
+		}
+		allow = { state_n_government = 1 }
+		effect = { 
+			set_country_flag = NENSHA
+			SHA = { country_event = 599997 } 	#do we let NEN kill natives??? routed via a native so Britain gets to see the native in the description
+		}
+	}
+}

@@ -1960,3 +1960,42 @@ war_reparations = {
 		}
 	}
 }
+#new england's cb on the natives
+NEN_expansion = {
+	sprite_index = 2
+	is_triggered_only = yes
+	months = 60
+	constructing_cb = no
+	crisis = no
+	
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		#always = no #??????
+	}
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 1
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 60
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	po_annex = yes
+	
+	war_name = WAR_CONQUEST_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+}

@@ -1,0 +1,202 @@
+country_event = { 
+	id = 599997	#event that the natives get so England can have a native $FROM$ in their event
+	title = "Our tribe is in danger!"
+	desc = "We have learned that the Dominion of New England is planning to invade our nation!"
+	is_triggered_only = yes 
+	immediate = { ENG = { country_event = 600001 } }
+	option = { 	
+		name = "Oh ma lawd"	#scary!
+	}
+}
+country_event = { 
+	id = 599998	#England agreed to NEN invading natives
+	title = "The British Government agreed!"
+	desc = "We are now free to march into Indian land with the United Kingdom's blessing"
+	is_triggered_only = yes 
+	option = { 	
+		name = "Finally, the fools in London did something smart!"	#cool!
+		ENG = { 		#this is needed so the any country below can actually function and scope NEN
+		any_country = { 
+			limit = { 
+				has_country_flag = NENWCRFINALISED
+			}	
+			casus_belli = { 
+				target = WCR
+				type = NEN_expansion
+				months = 60
+			}
+			war = { 
+				target = WCR 
+				attacker_goal = { casus_belli = NEN_expansion }
+				call_ally = no
+			}
+		}
+		any_country = { 
+			limit = { 
+				has_country_flag = NENINUFINALISED
+			}
+			casus_belli = { 
+				target = INU
+				type = NEN_expansion
+				months = 60
+			}
+			war = { 
+				target = WCR 
+				attacker_goal = { casus_belli = NEN_expansion }
+				call_ally = no
+			}
+		}
+		any_country = { 
+			limit = { 
+				has_country_flag = NENMIAFINALISED
+			}
+			casus_belli = { 
+				target = MIA
+				type = NEN_expansion
+				months = 60
+			}
+			war = { 
+				target = WCR 
+				attacker_goal = { casus_belli = NEN_expansion }
+				call_ally = no
+			}
+		}
+		any_country = { 
+			limit = { 
+				has_country_flag = NENPAWFINALISED
+			}
+			casus_belli = { 
+				target = PAW
+				type = NEN_expansion
+				months = 60
+			}
+			war = { 
+				target = WCR 
+				attacker_goal = { casus_belli = NEN_expansion }
+				call_ally = no
+			}
+		}
+		any_country = { 
+			limit = { 
+				has_country_flag = NENSHOFINALISED
+			}
+			casus_belli = { 
+				target = SHO
+				type = NEN_expansion
+				months = 60
+			}
+			war = { 
+				target = WCR 
+				attacker_goal = { casus_belli = NEN_expansion }
+				call_ally = no
+			}
+		}
+		any_country = { 
+			limit = { 
+				has_country_flag = NENMTCFINALISED
+			}
+			casus_belli = { 
+				target = MTC
+				type = NEN_expansion
+				months = 60
+			}
+			war = { 
+				target = WCR 
+				attacker_goal = { casus_belli = NEN_expansion }
+				call_ally = no
+			}
+		}
+		any_country = { 
+			limit = { 
+				has_country_flag = NENSHAFINALISED
+			}
+			casus_belli = { 
+				target = SHA
+				type = NEN_expansion
+				months = 60
+			}
+			war = { 
+				target = WCR 
+				attacker_goal = { casus_belli = NEN_expansion }
+				call_ally = no
+			}
+		}
+	}
+	}
+}
+
+country_event = { 
+	id = 599999	#England didn't agree to NEN invading natives
+	title = "The United Kingdom refuses to give permission"
+	desc = "It seems that our mission of civilising the Indians of this continent has gone unappreciated by the British government. To them, it seems unacceptable that a mere Dominion wishes to organise their own plans to expand into unclaimed land."
+	is_triggered_only = yes 
+	option = { 	
+		name = "We could make do without them!"	#if i catch the prime minister in st albans he better wear a helmet
+	}
+}
+
+country_event = { 
+	id = 600000	#England doesnt want to hear about us invading natives
+	title = "The United Kingdom doesn't want us to bother them!"
+	desc = "It seems that our friends back in the Mainland don't think of us as well as we thought - and have written a sternly worded letter, telling us that they will not even respond to future requests."
+	is_triggered_only = yes 
+	option = { 	
+		name = "We could make do without them!"	#if i catch the prime minister in st albans he better wear a helmet
+	}
+}
+
+country_event = { 
+	id = 600001	#NEN trying to invade
+	title = "New English Expansion"
+	desc = "The Governor of New England is asking for our permission to invade $FROMCOUNTRY$"
+	is_triggered_only = yes 
+	option = { 	
+		name = "Why not?"	#sure
+			badboy = 2 
+			NEN = { set_country_flag = NENWCRFINALISED }
+			any_country = { limit = { has_country_flag = NENWCR } set_country_flag = NENWCRFINALISED }
+			any_country = { limit = { has_country_flag = NENINU } set_country_flag = NENINUFINALISED }
+			any_country = { limit = { has_country_flag = NENMIA } set_country_flag = NENMIAFINALISED }
+			any_country = { limit = { has_country_flag = NENPAW } set_country_flag = NENPAWFINALISED }
+			any_country = { limit = { has_country_flag = NENSHO } set_country_flag = NENSHOFINALISED }
+			any_country = { limit = { has_country_flag = NENMTC } set_country_flag = NENMTCFINALISED }
+			any_country = { limit = { has_country_flag = NENSHA } set_country_flag = NENSHAFINALISED }
+			NEN = { country_event = 599998 }	#england agreed!
+		ai_chance = {
+			factor = 100
+		}
+	}
+	option = { 	
+		name = "This isn't advantageous for us."	#no
+		NEN = { 
+			clr_country_flag = NENWCR
+			clr_country_flag = NENINU
+			clr_country_flag = NENMIA
+			clr_country_flag = NENPAW
+			clr_country_flag = NENSHO
+			clr_country_flag = NENMTC
+			clr_country_flag = NENSHA
+			country_event = 599999 #england didnt agree!
+			ai_chance = {
+				factor = 0
+			}
+		}
+	}
+	option = { 	
+		name = "The Governor needs to learn that these requests aren't appreciated in London. (New England won't be able to request permission again, unless you let them)"	#no and i don't want to hear about this again
+		NEN = { 
+			clr_country_flag = NENWCR
+			clr_country_flag = NENINU
+			clr_country_flag = NENMIA
+			clr_country_flag = NENPAW
+			clr_country_flag = NENSHO
+			clr_country_flag = NENMTC
+			clr_country_flag = NENSHA
+			set_country_flag = NENNOMORETROLLING 
+			country_event = 600000	#england doesnt want to hear about us trying to invade natives
+			ai_chance = {
+				factor = 0
+			}
+		}
+	}
+}

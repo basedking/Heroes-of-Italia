@@ -5,4 +5,16 @@ louisianan;Louisianan;;;;;;;x
 starovery;Starovery;;;;;;;x
 occitan;Occitan;;;;;;;x
 soutie;Soutie;;;;;;;x
+vassal_nation;Vassal Nation;;;;;;;x
 UNIT_BUILD_TIME_IW;$VAL$ days.;;;;;;;;;;x;
+NEN_expansion;Anglo Expansion;;;;;;;;;;;;;x
+NEN_expansion_desc;Annex a country of small size and population by conquest;;;;;;;;;;;;;x
+NEN_expansion_setup;Annex the native nation of $RECIPIENT$;;;;;;;;;;;;;x
+NEN_expansion_short;Annex $RECIPIENT$;;;;;;;;;;;;;x
+NENWCRFINALISED;The UK is letting us annex Cree;;;;;;;;;;;;;x
+NENINUFINALISED;The UK is letting us annex the Inuit Union;;;;;;;;;;;;;x
+NENMIAFINALISED;The UK is letting us annex Miami;;;;;;;;;;;;;x
+NENPAWFINALISED;The UK is letting us annex Pawnee;;;;;;;;;;;;;x
+NENSHOFINALISED;The UK is letting us annex Shoshone;;;;;;;;;;;;;x
+NENMTCFINALISED;The UK is letting us annex the Metis Confederacy;;;;;;;;;;;;;x
+NENSHAFINALISED;The UK is letting us annex Shawnee;;;;;;;;;;;;;x

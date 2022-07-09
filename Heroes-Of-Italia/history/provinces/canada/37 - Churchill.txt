@@ -3,4 +3,3 @@ controller = WCR
 add_core = WCR
 trade_goods = fish
 life_rating = 35
-colonial = 2

@@ -2,3 +2,12 @@
 # these are checked for each countries once/month and then applied.
 #
 # Effects are fully scriptable here.
+vassal_nation = {
+	trigger = {
+		tag = NEN
+		is_vassal = yes
+		exists = yes
+	}
+	icon = 10
+	prestige = -1
+}
